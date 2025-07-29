@@ -1,0 +1,79 @@
+{
+  "00500": {
+    "list_sample_message": ["Internal Server Error"],
+    "status": 500,
+    "description": "Default statusCode for internal server error",
+    "default_message": "Bad Implementation"
+  },
+  "40000": {
+    "list_sample_message": [
+      "Missing Mandatory Parameter",
+      "Invalid Mandatory Parameter"
+    ],
+    "status": 400,
+    "description": "Default statusCode for validate request headers",
+    "default_message": "Bad Request"
+  },
+  "40429": {
+    "list_sample_message": ["To Many Request"],
+    "status": 429,
+    "description": "Global statusCode for response http status 429",
+    "default_message": "To Many Request"
+  },
+  "00404": {
+    "list_sample_message": ["User Not Found"],
+    "status": 400,
+    "description": "statusCode for handler not found logic with http satus 400",
+    "default_message": "Bad Request"
+  },
+  "01422": {
+    "list_sample_message": ["Failed Decryption"],
+    "status": 422,
+    "description": "Global statusCode for response http status 422",
+    "default_message": "Unprocessable Entity"
+  },
+  "02429": {
+    "list_sample_message": [
+      "You are detected as a bot",
+      "To Many Request Invalid Password"
+    ],
+    "status": 429,
+    "description": "",
+    "default_message": "Bad Request"
+  },
+  "00400": {
+    "list_sample_message": [
+      "%param% is required",
+      "Email or Username already exist",
+      "Password and Confirm Password must be match",
+      "Previos step invalid"
+    ],
+    "status": 400,
+    "description": "Global statusCode for response http status 400",
+    "default_message": "Bad Request"
+  },
+  "40404": {
+    "list_sample_message": ["Route not found"],
+    "status": 404,
+    "description": "Global statusCode for handle route route not found",
+    "default_message": "Not Found"
+  },
+  "00401": {
+    "list_sample_message": ["Unauthorized Access"],
+    "status": 401,
+    "description": "Global statusCode for handle Unauthorized",
+    "default_message": "Unauthorized"
+  },
+  "00403": {
+    "list_sample_message": ["Forbidden"],
+    "status": 403,
+    "description": "Global statusCode for handle Forbidden",
+    "default_message": "Forbidden"
+  },
+  "11403": {
+    "list_sample_message": ["Forbidden"],
+    "status": 403,
+    "description": "Error for expired access token user",
+    "default_message": "Forbidden"
+  }
+}

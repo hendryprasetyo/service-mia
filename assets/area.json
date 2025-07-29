@@ -1,0 +1,8074 @@
+{
+  "countries": {
+    "WNI": ["Indonesia"],
+    "WNA": [
+      "Afghanistan",
+      "Aland Islands",
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antarctica",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bahamas",
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Belarus",
+      "Belgium",
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Bouvet Island",
+      "Brazil",
+      "British Virgin Islands",
+      "British Indian Ocean Territory",
+      "Brunei Darussalam",
+      "Bulgaria",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Cape Verde",
+      "Cayman Islands",
+      "Central African Republic",
+      "Chad",
+      "Chile",
+      "China",
+      "Hong Kong, SAR China",
+      "Macao, SAR China",
+      "Christmas Island",
+      "Cocos (Keeling) Islands",
+      "Colombia",
+      "Comoros",
+      "Congo (Brazzaville)",
+      "Congo, (Kinshasa)",
+      "Cook Islands",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Croatia",
+      "Cuba",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Djibouti",
+      "Dominica",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Estonia",
+      "Ethiopia",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Fiji",
+      "Finland",
+      "France",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Gabon",
+      "Gambia",
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Gibraltar",
+      "Greece",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guernsey",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana",
+      "Haiti",
+      "Heard and Mcdonald Islands",
+      "Holy See (Vatican City State)",
+      "Honduras",
+      "Hungary",
+      "Iceland",
+      "India",
+      "Indonesia",
+      "Iran, Islamic Republic of",
+      "Iraq",
+      "Ireland",
+      "Isle of Man",
+      "Israel",
+      "Italy",
+      "Jamaica",
+      "Japan",
+      "Jersey",
+      "Jordan",
+      "Kazakhstan",
+      "Kenya",
+      "Kiribati",
+      "Korea (North)",
+      "Korea (South)",
+      "Kuwait",
+      "Kyrgyzstan",
+      "Lao PDR",
+      "Latvia",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Libya",
+      "Liechtenstein",
+      "Lithuania",
+      "Luxembourg",
+      "Macedonia, Republic of",
+      "Madagascar",
+      "Malawi",
+      "Malaysia",
+      "Maldives",
+      "Mali",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritania",
+      "Mauritius",
+      "Mayotte",
+      "Mexico",
+      "Micronesia, Federated States of",
+      "Moldova",
+      "Monaco",
+      "Mongolia",
+      "Montenegro",
+      "Montserrat",
+      "Morocco",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Nauru",
+      "Nepal",
+      "Netherlands",
+      "Netherlands Antilles",
+      "New Caledonia",
+      "New Zealand",
+      "Nicaragua",
+      "Niger",
+      "Nigeria",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Norway",
+      "Oman",
+      "Pakistan",
+      "Palau",
+      "Palestinian Territory",
+      "Panama",
+      "Papua New Guinea",
+      "Paraguay",
+      "Peru",
+      "Philippines",
+      "Pitcairn",
+      "Poland",
+      "Portugal",
+      "Puerto Rico",
+      "Qatar",
+      "Réunion",
+      "Romania",
+      "Russian Federation",
+      "Rwanda",
+      "Saint-Barthélemy",
+      "Saint Helena",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint-Martin (French part)",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and Grenadines",
+      "Samoa",
+      "San Marino",
+      "Sao Tome and Principe",
+      "Saudi Arabia",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Sierra Leone",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Svalbard and Jan Mayen Islands",
+      "Swaziland",
+      "Sweden",
+      "Switzerland",
+      "Syrian Arab Republic (Syria)",
+      "Taiwan, Republic of China",
+      "Tajikistan",
+      "Tanzania, United Republic of",
+      "Thailand",
+      "Timor-Leste",
+      "Togo",
+      "Tokelau",
+      "Tonga",
+      "Trinidad and Tobago",
+      "Tunisia",
+      "Turkey",
+      "Turkmenistan",
+      "Turks and Caicos Islands",
+      "Tuvalu",
+      "Uganda",
+      "Ukraine",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "US Minor Outlying Islands",
+      "Uruguay",
+      "Uzbekistan",
+      "Vanuatu",
+      "Venezuela (Bolivarian Republic)",
+      "Viet Nam",
+      "Virgin Islands, US",
+      "Wallis and Futuna Islands",
+      "Western Sahara",
+      "Yemen",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  "provinces": [
+    "Aceh",
+    "Bali",
+    "Banten",
+    "Bengkulu",
+    "DI Yogyakarta",
+    "DKI Jakarta",
+    "Gorontalo",
+    "Jambi",
+    "Jawa Barat",
+    "Jawa Tengah",
+    "Jawa Timur",
+    "Kalimantan Barat",
+    "Kalimantan Selatan",
+    "Kalimantan Tengah",
+    "Kalimantan Timur",
+    "Kalimantan Utara",
+    "Kepulauan Riau",
+    "Lampung",
+    "Maluku",
+    "Maluku Utara",
+    "Nusa Tenggara Barat",
+    "Nusa Tenggara Timur",
+    "Papua",
+    "Papua Barat",
+    "Riau",
+    "Sulawesi Barat",
+    "Sulawesi Selatan",
+    "Sulawesi Tengah",
+    "Sulawesi Tenggara",
+    "Sulawesi Utara",
+    "Sumatera Barat",
+    "Sumatera Selatan",
+    "Sumatera Utara",
+    "Kep. Bangka-Belitung"
+  ],
+  "cities": [
+    {
+      "name": "Aceh Barat",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Barat Daya",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Besar",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Jaya",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Selatan",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Singkil",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Tamiang",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Tengah",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Tenggara",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Timur",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Aceh Utara",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Banda Aceh",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Bener Meriah",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Bireuen",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Gayo Lues",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Langsa",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Lhokseumawe",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Nagan Raya",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Nagroe Aceh Darussalam",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Pidie",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Pidie Jaya",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Sabang",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Simeulue",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Subulussalam",
+      "province": "Aceh",
+      "region": "B11"
+    },
+    {
+      "name": "Badung",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Bangli",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Buleleng",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Denpasar",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Gianyar",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Jembrana",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Karangasem",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Klungkung",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Kuta",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Tabanan",
+      "province": "Bali",
+      "region": "B33"
+    },
+    {
+      "name": "Cilegon",
+      "province": "Banten",
+      "region": "B24"
+    },
+    {
+      "name": "Ciputat",
+      "province": "Banten",
+      "region": "B21"
+    },
+    {
+      "name": "Lebak",
+      "province": "Banten",
+      "region": "B24"
+    },
+    {
+      "name": "Pandeglang",
+      "province": "Banten",
+      "region": "B24"
+    },
+    {
+      "name": "Serang",
+      "province": "Banten",
+      "region": "B24"
+    },
+    {
+      "name": "Tangerang",
+      "province": "Banten",
+      "region": "B24"
+    },
+    {
+      "name": "Tangerang Selatan",
+      "province": "Banten",
+      "region": "B24"
+    },
+    {
+      "name": "Tigaraksa",
+      "province": "Banten",
+      "region": "B21"
+    },
+    {
+      "name": "Bengkulu",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Bengkulu Selatan",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Bengkulu Tengah",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Bengkulu Utara",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Kaur",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Kepahiang",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Lebong",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Muko Muko",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Rejang Lebong",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Seluma",
+      "province": "Bengkulu",
+      "region": "B13"
+    },
+    {
+      "name": "Bantul",
+      "province": "DI Yogyakarta",
+      "region": "B31"
+    },
+    {
+      "name": "Gunung Kidul",
+      "province": "DI Yogyakarta",
+      "region": "B31"
+    },
+    {
+      "name": "Kulon Progo",
+      "province": "DI Yogyakarta",
+      "region": "B31"
+    },
+    {
+      "name": "Sleman",
+      "province": "DI Yogyakarta",
+      "region": "B31"
+    },
+    {
+      "name": "Wonosari",
+      "province": "DI Yogyakarta",
+      "region": "B31"
+    },
+    {
+      "name": "Yogyakarta",
+      "province": "DI Yogyakarta",
+      "region": "B31"
+    },
+    {
+      "name": "Ancol",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Angke",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Balekambang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bali Mester",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bambu Apus",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bangka",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Batu Ampar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bendungan Hilir",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bidaracina",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bintaro",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bukit Duri",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Bungur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cakung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cakung Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cawang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Ceger",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cempaka Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cempaka Putih Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cempaka Putih Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cengkareng Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cengkareng Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cideng",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Ciganjur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cijantung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cikini",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cikoko",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cilandak Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cilandak Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cilangkap",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cililitan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cilincing",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipayung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipedak",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipete Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipete Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipinang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipinang Besar Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipinang Besar Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipinang Cempedak",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipinang Melayu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipinang Muara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Cipulir",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Ciracas",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Dukuh",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duren Sawit",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duren Tiga",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duri Kepa",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duri Kosambi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duri Pulo",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duri Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Duri Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Galur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gambir",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gandaria Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gandaria Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gelora",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Glodok",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gondangdia",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Grogol Jakarta",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Grogol Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Grogol Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Guntur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gunung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gunung Sahari Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Gunung Sahari Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Halim Perdanakusuma",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Harapan Mulya",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jagakarsa",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jakarta Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jakarta Pusat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jakarta Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jakarta Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jakarta Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jati",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jati Padang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jati Pulo",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jatinegara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jatinegara Kaum",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jelambar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jelambar Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jembatan Besi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jembatan Lima",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Jkt Selatan PIM 3",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Joglo",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Johar Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kali Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kalianyar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kalibata",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kalideres",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kalisari",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kamal",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kamal Muara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kampung Bali",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kampung Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kampung Gedong",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kampung Melayu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kampung Rawa",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kampung Tengah",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kapuk",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kapuk Muara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Karang Anyar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Karet",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Karet Kuningan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Karet Semanggi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Karet Tengsin",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kartini",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kayu Manis",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kayu Putih",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Keagungan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebagusan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebayoran Lama Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebayoran Lama Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Bawang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Jeruk",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Kacang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Kelapa",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Kosong",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Manggis",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Melati",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Pala",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kebon Sirih",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kedaung Kali Angke",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kedoya Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kedoya Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kelapa Dua",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kelapa Dua Wetan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kelapa Gading Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kelapa Gading Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kemanggisan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kemayoran",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kembangan Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kembangan Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kenari",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kepulauan Seribu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Klender",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Koja Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Koja Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kota Bambu Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kota Bambu Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kramat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kramat Jati",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kramat Pela",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Krendang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Krukut",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kuningan Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kuningan Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Kwitang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Lagoa",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Lebak Bulus",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Lenteng Agung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Lubang Buaya",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Makasar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Malaka Jaya",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Malaka Sari",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Mampang Prapatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Mangga Besar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Mangga Dua Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Manggarai",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Manggarai Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Maphar",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Marunda",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Melawai",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Menteng",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Menteng Atas",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Menteng Dalam",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Meruya Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Meruya Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Munjul",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pademangan Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pademangan Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pal Meriam",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Palmerah",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pancoran",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Papanggo",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pasar Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pasar Manggis",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pasar Minggu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Paseban",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pegadungan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pegangsaan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pegangsaan Dua",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pejagalan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pejaten Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pejaten Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pekayon",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pekojan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pela Mampang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pengadeggan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Penggilingan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Penjaringan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pesanggrahan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Petamburan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Petogogan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Petojo Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Petojo Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Petukangan Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Petukangan Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pinang Ranti",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pinangsia",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pisangan Baru",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pisangan Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pluit",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pondok Bambu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pondok Kelapa",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pondok Kopi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pondok Labu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pondok Pinang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pondok Ranggon",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pulo",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pulo Gadung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Pulogebang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Ragunan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rambutan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Badak Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Badak Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Buaya",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Bunga",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Jati",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawa Terate",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawamangun",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rawasari",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Roa Malaka",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Rorotan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Semanan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Semper Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Semper Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Senayan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Senen",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Serdang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Setiabudi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Setu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Slipi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Srengseng",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Srengseng Sawah",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sukabumi Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sukabumi Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sukapura",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sumur Batu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sungai Bambu",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sunter Agung",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Sunter Jaya",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Susukan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Taman Sari",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tambora",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tanah Sereal",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tanah Tinggi",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tangki",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tanjung Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tanjung Duren Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tanjung Duren Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tanjung Priok",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tebet Barat",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tebet Timur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tegal Alur",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tegal Parang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tomang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tugu Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Tugu Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Ujung Menteng",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Ulujami",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Utan Kayu Selatan",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Utan Kayu Utara",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Utan Panjang",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Warakas",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Wijaya Kusuma",
+      "province": "DKI Jakarta",
+      "region": "B21"
+    },
+    {
+      "name": "Boalemo",
+      "province": "Gorontalo",
+      "region": "B42"
+    },
+    {
+      "name": "Bone Bolango",
+      "province": "Gorontalo",
+      "region": "B42"
+    },
+    {
+      "name": "Gorontalo",
+      "province": "Gorontalo",
+      "region": "B42"
+    },
+    {
+      "name": "Gorontalo Utara",
+      "province": "Gorontalo",
+      "region": "B42"
+    },
+    {
+      "name": "Pohuwato",
+      "province": "Gorontalo",
+      "region": "B42"
+    },
+    {
+      "name": "Batang Hari",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Bungo",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Jambi",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Kerinci",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Merangin",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Muaro Jambi",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Sarolangun",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Sungaipenuh",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Tanjung Jabung Barat",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Tanjung Jabung Timur",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "Tebo",
+      "province": "Jambi",
+      "region": "B13"
+    },
+    {
+      "name": "ANDIR",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "ASTANA ANYAR",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "BABAKAN CIPARAY",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Bandung",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Bandung Barat",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "BANDUNG KIDUL",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "BANDUNG KULON",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "BANDUNG WETAN",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Banjar",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "BATUNUNGGAL",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Bekasi",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Bogor",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "BOJONGLOA KIDUL",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Ciamis",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Cianjur",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "CIBEUNYING BKIDUL",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "CIBEUNYING KALER",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Cibubur",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "CICENDO",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Cikarang",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Cimahi",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Cirebon",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "COBLONG",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Depok",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Garut",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Indramayu",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Karawang",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "KIARA CONDONG",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Kuningan",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "LENGKONG",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Majalengka",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Ngamprah",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Purwakarta",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Singaparna",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Soreang",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Subang",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Sukabumi",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "SUKAJADI",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "SUKASARI",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Sumber",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Sumedang",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "SUMUR BANDUNG",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Tasikmalaya",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "TEGALEGA",
+      "province": "Jawa Barat",
+      "region": "B22"
+    },
+    {
+      "name": "Banjarnegara",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Banyumas",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Batang",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Blora",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Boyolali",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Brebes",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Cilacap",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Demak",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Grobogan",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Jepara",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Karanganyar",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Kebumen",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Kendal",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Klaten",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Kudus",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Magelang",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Pati",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Pekalongan",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Pemalang",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Purbalingga",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Purwodadi",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Purwokerto",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Purworejo",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Rembang",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Salatiga",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Semarang",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Sragen",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Sukoharjo",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Surakarta (Solo)",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Tegal",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Temanggung",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Wonogiri",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Wonosobo",
+      "province": "Jawa Tengah",
+      "region": "B31"
+    },
+    {
+      "name": "Ajung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ambulu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ambunten",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ampel Gading",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Anyar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Arjasa",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Arjosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Arosbaya",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Asembagus",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Asemrowo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Babad",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Babadan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Badegan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bagor",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bakung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balega",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balerejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balong Panggang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balongbendo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Balung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bancar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bandar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bandar Kedung Mulya",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bangil",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bangilan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bangkalan",
+      "province": "Jawa Timur",
+      "region": "B31"
+    },
+    {
+      "name": "Bangorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bangsal",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bangsalsari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bantaran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bantur",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Banyu Anyar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Banyu Glugur",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Banyuates",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Banyuputih",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Banyuwangi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bareng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Baron",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Batang batang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Batu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Batumarmar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Batuputih",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Baureno",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Beji",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bendo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bendungan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Benjeng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Benowo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Berbek",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Besuk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Besuki",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Binangun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Blimbing",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Blitar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bluluk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bluto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bojonegoro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bondowoso",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Boyolangu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bringin",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Brondong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bubulan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bubutan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Buduran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bugul Kidul",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bulak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bululawang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bumiaji",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bungah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bungatan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Bungkal",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Burneh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Camplong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Campur Darat",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Candi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Candipuro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Caruban",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Cerme",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Cermee",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Cluring",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Curahdami",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dampit",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dander",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dasuk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dau",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dawar Blandong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Deket",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Delopo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Diwek",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dlanggu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Doko",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dongko",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Donomulyo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Donorojo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dringu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Driyorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Duduk Sampeyan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dukuh Pakis",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dukuhpakis",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dukun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Dungkek",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Durenan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gading",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gadingrejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Galis",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gambiran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gampengrejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gandusari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gapura",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Garum",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gayam",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gayungan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gedangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gedek",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Geger",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gemarang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gempol",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gending",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Geneng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Genteng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Giligenting",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Giri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Glagah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Glenmore",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gondang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gondang Wetan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gondanglegi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gratinom",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gresik",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Grogol",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Grujugan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gubeng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Guci Alit",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gudo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Guluk guluk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gumuk Mas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gunung Anyar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gununganyar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Gurah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jabon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jabung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jambangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jangkar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jatikalen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jatirejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jatirogo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jatiroto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jelbuk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jember",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jenangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jenggawah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jenu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jetis",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jiwan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jogorogo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jogoroto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jombang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Jrengik",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Junrejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kabat",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kabuh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kademangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kadur",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalianget",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalibaru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalidawir",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalipare",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalipuro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalisat",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalitengah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kalitidu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kaliwates",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kamal (Jawa)",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kambangbahu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kampak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kandangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kandat",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kanigaran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kanigoro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kanor",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kapas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kapongan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karang Geneng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karang pilang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karang Ploso",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karangjati",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karangmojo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karangpilang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karangrejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karee",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Karto Harjo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kartoharjo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kasembon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kasiman",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kauman",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kawedanan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kebomas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kebon Agung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kebonagung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kebonsari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedamean",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kediri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedopok",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedung Jajang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedungadem",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedungalar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedungdung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedungpring",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kedungwaru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kemlagi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kencong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kendit",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kenduruan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kenjeran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kepanjen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kepanjen Kidul",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kepohbaru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kepung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kerek",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kertosono",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kesamben",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kidung Kandang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Klabang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Klakah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Klampis",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Klojen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kokop",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Konang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kraksaan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kras",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kraton",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Krejengan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Krembangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Krembung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Krian",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kromengan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Krucil",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kudu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kunir",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kunjang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kuripan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kutorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kwadungan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Kwanyar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Labang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lakar Santri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lakarsantri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lamongan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Larangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Laren",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lawang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Leces",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ledokombo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lekok",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lembeyan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lengkong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lenteng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Licin",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Loceret",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lowok Waru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lumajang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Lumbang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Madiun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Maesan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mager Sari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Magetan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Malang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Malo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Manding",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mangaran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mangun Harjo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mantingan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mantup",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Manyar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Maospati",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Margomulyo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Maron",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Masalembu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mayang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mayangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Megaluh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mejayan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Menganti",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Merakurak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mlandingan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mlarak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Modo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Modung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mojo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mojo Agung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mojokerto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mojoroto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mojosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mojowarno",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Montong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mulyorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Mumbulsari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Muncar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Munjungan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Nawangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngadiluwih",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngadirejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngajum",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngambon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngancar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Nganjuk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngantang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngantru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngasem",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngawi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngebel",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngetos",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngimbang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Nglegok",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngluyu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngoro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngraho",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngrambe",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngrayun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngronggot",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Nguling",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ngunut",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Nonggunong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Omben",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pabean Cantikan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pace",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pacet",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Paciran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pacitan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Padangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Padas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pademawu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pagak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pagerwojo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pagu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Paiton",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pajarakan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakal",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakel",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakis",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakisaji",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakuniran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pakusari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Palang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Palengaan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pamekasan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Panarukan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Panceng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pandaan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Panekan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Panggul",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Panggungrejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pangkur",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Panji",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Papar",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Parang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pare",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pare Kediri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Parengan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Paron",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pasean",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pasirian",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pasongsongan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pasrepan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pasuruan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Patianrowo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Patrang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pengantenan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Perak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pesanggaran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pesantren",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Peterongan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pilang Kenceng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pitu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Plandaan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Plaosan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Plemahan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ploso",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Plosoklaten",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Plumpang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pogalan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ponco Kusumo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Poncol",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ponggok",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ponorogo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Porong",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pragaan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Prajekan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Prambon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Prigen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pringkuku",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Probolinggo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pronojiwo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Proppo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pucang Laban",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pucuk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Puger",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pujer",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pujon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pule",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pulung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Puncu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Pungging",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Punung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Puri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Purwoasri",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Purwoharjo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Purwosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Puspo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Raas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rambipuji",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Randu Agung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ranuyoso",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rejoso",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rejotangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rengel",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Robatal",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rogojampi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rowokangkung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rubaru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Rungkut",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sambeng",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sambikerep",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sambit",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sampang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sampung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sanan Kulon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sanan Wetan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sangkapura",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sapeken",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Saradan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Saronggi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sawahan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sawoo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sedati",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sekaran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Selorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Semampir",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Semanding",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Semen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sendang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Senduro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Senori",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sepuluh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sidayu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sidoarjo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Silo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Siman",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Simokerto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sine",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Singgahan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Singojuruh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Singosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Situbondo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Slahung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Socah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Soko",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sokobanah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Solokuro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Songgon",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sooko",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Srengat",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sreseh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Srono",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Suboh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sudimoro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sugihwaras",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sugio",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukapura (Jatim)",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukodadi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukodono",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukolilo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukomanunggal",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukomoro",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukorambi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukorame",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukowono",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sukun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Baru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Gempol",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Jambe",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Malang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Manjing",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Pucung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumber Sari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumberasih",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumberejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumenep",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sumobito",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Surabaya",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Surabaya Pemuda",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Sutojayan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tajinan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Takeran",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Talango",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Talun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Taman",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tamanan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tambak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tambakboyo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tambakrejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tambaksari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tanah Merah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tandes",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tanggul",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tanggulangin",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tanggung Gunung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tanjung Anom",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tanjungbumi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tapen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tarik",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tarokan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tegal Ampel",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tegal Sari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tegal Siwalan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tegaldlimo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tegalombo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tegalsari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tekung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Temayang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tembelang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tembelangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tempeh",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tempurejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tempursari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tenggarang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tenggilis Mejoyo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tikung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tiris",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tirto Yudo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tlanakan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tlogosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tongas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Torjun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tosari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tragah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Trawas",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Trenggalek",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Trowulan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Trucuk",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tuban",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tugu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tulakan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tulangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tulung Agung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tulungagung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tumpang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Turen",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Tutur",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Udan Awu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Ujung Pangkah",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Umbul Sari",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wagir",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wajak",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Waru",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wates",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Watulimo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Widang",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Widodaren",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wilangan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Winongan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wiyung",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wlingi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wongsorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonoasih",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonoayu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonocolo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonodadi",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonokromo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonomerto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonorejo",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonosalam",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wonotirto",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wringin",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wringin Anom",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wuluhan",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Wungu",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "Yosowilangun",
+      "province": "Jawa Timur",
+      "region": "B32"
+    },
+    {
+      "name": "KETAPANG",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "SAMBAS",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "SANGGAU",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "SINGKAWANG",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "SINTANG",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Bengkayang",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Kapuas Hulu",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Kayong Utara",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Ketapang",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Kubu Raya",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Landak",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Melawi",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "NGABANG",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Pontianak",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "PUTUSIBAU",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Sambas",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Sanggau",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Sekadau",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Singkawang",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "Sintang",
+      "province": "Kalimantan Barat",
+      "region": "B41"
+    },
+    {
+      "name": "AMUNTAI",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Balangan",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Banjar (KalSel)",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Banjarbaru",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Banjarmasin",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "BARABAI",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Barito Kuala",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "BATU LICIN",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Hulu Sungai Selatan",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Hulu Sungai Tengah",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Hulu Sungai Utara",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Kotabaru",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "PELAIHARI",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "RANTAU",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "SUNGAI DANAU",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Tabalong",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Tanah Bumbu",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Tanah Laut",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "TANJUNG",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "Tapin",
+      "province": "Kalimantan Selatan",
+      "region": "B41"
+    },
+    {
+      "name": "KASONGAN",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "SAMPIT",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Barito Selatan",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Barito Timur",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Barito Utara",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "BUNTOK",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Gunung Mas",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Kapuas",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Katingan",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Kotawaringin Barat",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Kotawaringin Timur",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "KUALA KAPUAS",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Lamandau",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Murung Raya",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Palangka Raya",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "PANGKALANBUN",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Pulang Pisau",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Seruyan",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Sukamara",
+      "province": "Kalimantan Tengah",
+      "region": "B41"
+    },
+    {
+      "name": "Balikpapan",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Berau",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Bontang",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Bulungan (Bulongan)",
+      "province": "Kalimantan Utara",
+      "region": "B41"
+    },
+    {
+      "name": "HANDIL",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "KOTA BANGUN",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Kutai Barat",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Kutai Kartanegara",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Kutai Timur",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "LOAJANAN",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Malinau",
+      "province": "Kalimantan Utara",
+      "region": "B41"
+    },
+    {
+      "name": "MELAK",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Nunukan",
+      "province": "Kalimantan Utara",
+      "region": "B41"
+    },
+    {
+      "name": "Paser",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "PENAJAM",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Penajam Paser Utara",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Samarinda",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "SANGATTA",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Tana Tidung",
+      "province": "Kalimantan Utara",
+      "region": "B41"
+    },
+    {
+      "name": "TANAH GROGOT",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "TANJUNG REDEB",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Tanjung Selor",
+      "province": "Kalimantan Utara",
+      "region": "B41"
+    },
+    {
+      "name": "Tarakan",
+      "province": "Kalimantan Utara",
+      "region": "B41"
+    },
+    {
+      "name": "TENGGARONG",
+      "province": "Kalimantan Timur",
+      "region": "B41"
+    },
+    {
+      "name": "Bangka Belitung",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Bangka Barat",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Bangka Selatan",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Bangka Tengah",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Belitung",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Belitung Timur",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Pangkal Pinang",
+      "province": "Kep. Bangka-Belitung",
+      "region": "B13"
+    },
+    {
+      "name": "Batam",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Bintan",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Karimun",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Kepulauan Anambas",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Lingga",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Natuna",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Ranai",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Tanjung Pinang",
+      "province": "Kepulauan Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Bandar Lampung",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Lampung Barat",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Lampung Selatan",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Lampung Tengah",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Lampung Timur",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Lampung Utara",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Mesuji",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Metro",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Pesawaran",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Pringsewu",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Tanggamus",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Tulang Bawang",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Tulang Bawang Barat",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Way Kanan",
+      "province": "Lampung",
+      "region": "B13"
+    },
+    {
+      "name": "Ambon",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Buru",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Buru Selatan",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Kepulauan Aru",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Maluku Barat Daya",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Maluku Tengah",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Maluku Tenggara",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Maluku Tenggara Barat",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Seram Bagian Barat",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Seram Bagian Timur",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Tual",
+      "province": "Maluku",
+      "region": "B43"
+    },
+    {
+      "name": "Halmahera Barat",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Halmahera Selatan",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Halmahera Tengah",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Halmahera Timur",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Halmahera Utara",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Kepulauan Sula",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Pulau Morotai",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Ternate",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Tidore Kepulauan",
+      "province": "Maluku Utara",
+      "region": "B43"
+    },
+    {
+      "name": "Bima",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Dompu",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Lombok Barat",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Lombok Tengah",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Lombok Timur",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Lombok Utara",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Mataram",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Selong",
+      "province": "Nusa Tenggara Barat",
+      "region": "B21"
+    },
+    {
+      "name": "Sumbawa",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Sumbawa Barat",
+      "province": "Nusa Tenggara Barat",
+      "region": "B33"
+    },
+    {
+      "name": "Alor",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Belu",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Ende",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Flores Timur",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Kupang",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Lembata",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Manggarai (NTT)",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Manggarai Barat",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Manggarai Timur",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Nagekeo",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Ngada",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Rote Ndao",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Sabu Raijua",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Sikka",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Sumba Barat",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Sumba Barat Daya",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Sumba Tengah",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Sumba Timur",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Timor Tengah Selatan",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Timor Tengah Utara",
+      "province": "Nusa Tenggara Timur",
+      "region": "B33"
+    },
+    {
+      "name": "Asmat",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Biak Numfor",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Boven Digoel",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Deiyai (Deliyai)",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Dogiyai",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Intan Jaya",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Jayapura",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Jayawijaya",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Keerom",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Kep. Yapen Waropen",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Lanny Jaya",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Mamberamo Raya",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Mamberamo Tengah",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Mappi",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Merauke",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Mimika",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Nabire",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Nduga",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Paniai",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Pegunungan Bintang",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Puncak",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Puncak Jaya",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Sarmi",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Supiori",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Timika",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Tolikara",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Waropen",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Yahukimo",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Yalimo",
+      "province": "Papua",
+      "region": "B43"
+    },
+    {
+      "name": "Fakfak",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Kaimana",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Manokwari",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Maybrat",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Raja Ampat",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Sorong",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Sorong Selatan",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Tambrauw",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Teluk Bintuni",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Teluk Wondama",
+      "province": "Papua Barat",
+      "region": "B43"
+    },
+    {
+      "name": "Bengkalis",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Dumai",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Indragiri Hilir",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Indragiri Hulu",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Kampar",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Kepulauan Meranti",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Kuantan Singingi",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Pekanbaru",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Pelalawan",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Rokan Hilir",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Rokan Hulu",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Siak",
+      "province": "Riau",
+      "region": "B12"
+    },
+    {
+      "name": "Majene",
+      "province": "Sulawesi Barat",
+      "region": "B42"
+    },
+    {
+      "name": "Mamasa",
+      "province": "Sulawesi Barat",
+      "region": "B42"
+    },
+    {
+      "name": "Mamuju",
+      "province": "Sulawesi Barat",
+      "region": "B42"
+    },
+    {
+      "name": "Mamuju Utara",
+      "province": "Sulawesi Barat",
+      "region": "B42"
+    },
+    {
+      "name": "Polewali Mandar",
+      "province": "Sulawesi Barat",
+      "region": "B42"
+    },
+    {
+      "name": "Bajeng",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bantaeng",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bantimurung",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Barombong",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Barru",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Biringbulu",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Biringkanaya",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bone",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bontoa",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bontoala",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bontolempangan",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bontomarannu",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bontonompo",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bontonompo Selatan",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bulukumba",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Bungaya",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Camba",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Cenrana",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Enrekang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Galesong Selatan",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Galesong Utara",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Gowa",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Jeneponto",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Kep. Selayar",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Lau",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Luwu",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Luwu Timur",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Luwu Utara",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Makassar",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Mallawa",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Mamajang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Mandai",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Mangara Bombang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Manggala",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Manuju",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Mappakasunggu",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Mariso",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Maros",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Maros Baru",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Marusu",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Moncong Loe",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Pallangga",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Palopo",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Panakkukang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Pangkajene Kepulauan",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Parangloe",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Parepare",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Patallassang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Pattallassang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Pinrang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Polombangkeng Selatan",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Polombangkeng Utara",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Rappocini",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Sidenreng Rappang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Simbang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Sinjai",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Soppeng",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Takalar",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Tallo",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Tamalanrea",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Tamalate",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Tana Toraja",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Tanralili",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Tompobulu",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Toraja Utara",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Turikale",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Ujung Pandang",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Ujung Tanah",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Wajo",
+      "province": "Sulawesi Selatan",
+      "region": "B42"
+    },
+    {
+      "name": "Banggai",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Banggai Kepulauan",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Buol",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Donggala",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Morowali",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Palu",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Parigi Moutong",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Poso",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Sigi",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Tojo Una-Una",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Toli-Toli",
+      "province": "Sulawesi Tengah",
+      "region": "B42"
+    },
+    {
+      "name": "Bau-Bau",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Bombana",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Buton",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Buton Utara",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Kendari",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Kolaka",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Kolaka Utara",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Konawe",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Konawe Selatan",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Konawe Utara",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Muna",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Wakatobi",
+      "province": "Sulawesi Tenggara",
+      "region": "B42"
+    },
+    {
+      "name": "Bitung",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Bolaang Mongodow",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Bolaang Mongodow Timur",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Bolaang Mongodow Utara",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "BolaangMongodowSelatan",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Kep. Siau Tagulandang",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Kepulauan Sangihe",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Kepulauan Talaud",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Kotamobagu",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Manado",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Minahasa",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Minahasa Selatan",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Minahasa Tenggara",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Minahasa Utara",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Tomohon",
+      "province": "Sulawesi Utara",
+      "region": "B42"
+    },
+    {
+      "name": "Agam",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Bukittinggi",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Dharmasraya",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Kepulauan Mentawai",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Lima Puluh Koto",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Padang",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Padang Panjang",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Padang Pariaman",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Pariaman",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Pasaman",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Pasaman Barat",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Payakumbuh",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Pesisir Selatan",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Sawah Lunto",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Sawah Lunto Sijunjung",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Solok",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Solok Selatan",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Tanah Datar",
+      "province": "Sumatera Barat",
+      "region": "B12"
+    },
+    {
+      "name": "Banyuasin",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Empat Lawang",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Lahat",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Lubuk Linggau",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Muara Enim",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Musi Banyuasin",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Musi Rawas",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Ogan Ilir",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Ogan Komering Ilir",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Ogan Komering Ulu",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "OKU Selatan",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "OKU Timur",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Pagar Alam",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Palembang",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Prabumulih",
+      "province": "Sumatera Selatan",
+      "region": "B13"
+    },
+    {
+      "name": "Asahan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Batu Bara",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Binjai",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Dairi",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Deli Serdang",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Gunungsitoli",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Humbang Hasundutan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Karo",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Labuhan Batu",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Labuhan Batu Selatan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Labuhan Batu Utara",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Langkat",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Mandailing Natal",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Amplas",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Area",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Barat",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Baru",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Belawan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Deli",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Denai",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Helvetia",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Johor",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Kota",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Labuhan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Maimun",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Marelan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Perjuangan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Petisah",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Polonia",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Selayang",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Sunggal",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Tembung",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Timur",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Medan Tuntungan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Nias",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Nias Barat",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Nias Selatan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Nias Utara",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Padang Lawas",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Padang Lawas Utara",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Padang Sidempuan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Pakpak Bharat",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Pematang Siantar",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Percut Sei Tuan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Samosir",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Serdang Bedagai",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Sibolga",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Simalungun",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Tanjung Balai",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Tapanuli Selatan",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Tapanuli Tengah",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Tapanuli Utara",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Tebing Tinggi",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    },
+    {
+      "name": "Toba Samosir",
+      "province": "Sumatera Utara",
+      "region": "B11"
+    }
+  ],
+  "provincesWithCoordinate": [
+    {
+      "province": "Aceh",
+      "lat": "4.695135",
+      "long": "96.7493993"
+    },
+    {
+      "province": "Bali",
+      "lat": "-8.4095178",
+      "long": "115.188916"
+    },
+    {
+      "province": "Banten",
+      "lat": "-6.405817",
+      "long": "106.0640179"
+    },
+    {
+      "province": "Bengkulu",
+      "lat": "-3.5778471",
+      "long": "102.3463875"
+    },
+    {
+      "province": "DI Yogyakarta",
+      "lat": "-7.8753849",
+      "long": "110.4262088"
+    },
+    {
+      "province": "DKI Jakarta",
+      "lat": "-6.211544",
+      "long": "106.845172"
+    },
+    {
+      "province": "Gorontalo",
+      "lat": "0.6999372",
+      "long": "122.4467238"
+    },
+    {
+      "province": "Jambi",
+      "lat": "-1.609972",
+      "long": "103.607254"
+    },
+    {
+      "province": "Jawa Barat",
+      "lat": "-7.090911",
+      "long": "107.668887"
+    },
+    {
+      "province": "Jawa Tengah",
+      "lat": "-7.150975",
+      "long": "110.1402594"
+    },
+    {
+      "province": "Jawa Timur",
+      "lat": "-7.5360639",
+      "long": "112.2384017"
+    },
+    {
+      "province": "Kalimantan Barat",
+      "lat": "-0.2787808",
+      "long": "111.4752851"
+    },
+    {
+      "province": "Kalimantan Selatan",
+      "lat": "-3.0926415",
+      "long": "115.2837585"
+    },
+    {
+      "province": "Kalimantan Tengah",
+      "lat": "-1.6814878",
+      "long": "113.3823545"
+    },
+    {
+      "province": "Kalimantan Timur",
+      "lat": "1.6406296",
+      "long": "116.419389"
+    },
+    {
+      "province": "Kepulauan Riau",
+      "lat": "3.9456514",
+      "long": "108.1428669"
+    },
+    {
+      "province": "Lampung",
+      "lat": "-4.5585849",
+      "long": "105.4068079"
+    },
+    {
+      "province": "Maluku",
+      "lat": "-3.2384616",
+      "long": "130.1452734"
+    },
+    {
+      "province": "Maluku Utara",
+      "lat": "1.5709993",
+      "long": "127.8087693"
+    },
+    {
+      "province": "Nusa Tenggara Barat",
+      "lat": "-8.6529334",
+      "long": "117.3616476"
+    },
+    {
+      "province": "Nusa Tenggara Timur",
+      "lat": "-8.6573819",
+      "long": "121.0793705"
+    },
+    {
+      "province": "Papua",
+      "lat": "-4.269928",
+      "long": "138.0803529"
+    },
+    {
+      "province": "Papua Barat",
+      "lat": "-1.3361154",
+      "long": "133.1747162"
+    },
+    {
+      "province": "Riau",
+      "lat": "0.2933469",
+      "long": "101.7068294"
+    },
+    {
+      "province": "Sulawesi Barat",
+      "lat": "-2.8441371",
+      "long": "119.2320784"
+    },
+    {
+      "province": "Sulawesi Selatan",
+      "lat": "-3.6687994",
+      "long": "119.9740534"
+    },
+    {
+      "province": "Sulawesi Tengah",
+      "lat": "-1.4300254",
+      "long": "121.4456179"
+    },
+    {
+      "province": "Sulawesi Tenggara",
+      "lat": "-4.14491",
+      "long": "122.174605"
+    },
+    {
+      "province": "Sulawesi Utara",
+      "lat": "0.6246932",
+      "long": "123.9750018"
+    },
+    {
+      "province": "Sumatera Barat",
+      "lat": "-0.7399397",
+      "long": "100.8000051"
+    },
+    {
+      "province": "Sumatera Selatan",
+      "lat": "-3.3194374",
+      "long": "103.914399"
+    },
+    {
+      "province": "Sumatera Utara",
+      "lat": "2.1153547",
+      "long": "99.5450974"
+    },
+    {
+      "province": "Kep. Bangka-Belitung",
+      "lat": "-2.7410513",
+      "long": "106.4405872"
+    }
+  ],
+  "laccimaCities": [
+    "ACEH BARAT",
+    "ACEH BARAT DAYA",
+    "ACEH BESAR",
+    "ACEH JAYA",
+    "ACEH SELATAN",
+    "ACEH SINGKIL",
+    "ACEH TAMIANG",
+    "ACEH TENGAH",
+    "ACEH TENGGARA",
+    "ACEH TIMUR",
+    "ACEH UTARA",
+    "AGAM",
+    "ALOR",
+    "ASAHAN",
+    "ASMAT",
+    "BADUNG",
+    "BALANGAN",
+    "BANDUNG",
+    "BANDUNG BARAT",
+    "BANGGAI",
+    "BANGGAI KEPULAUAN",
+    "BANGGAI LAUT",
+    "BANGKA",
+    "BANGKA BARAT",
+    "BANGKA SELATAN",
+    "BANGKA TENGAH",
+    "BANGKALAN",
+    "BANGLI",
+    "BANJAR",
+    "BANJARNEGARA",
+    "BANTAENG",
+    "BANTUL",
+    "BANYU ASIN",
+    "BANYUMAS",
+    "BANYUWANGI",
+    "BARITO KUALA",
+    "BARITO SELATAN",
+    "BARITO TIMUR",
+    "BARITO UTARA",
+    "BARRU",
+    "BATANG",
+    "BATANG HARI",
+    "BATU BARA",
+    "BEKASI",
+    "BELITUNG",
+    "BELITUNG TIMUR",
+    "BELU",
+    "BENER MERIAH",
+    "BENGKALIS",
+    "BENGKAYANG",
+    "BENGKULU SELATAN",
+    "BENGKULU TENGAH",
+    "BENGKULU UTARA",
+    "BERAU",
+    "BIAK NUMFOR",
+    "BIMA",
+    "BINTAN",
+    "BIREUEN",
+    "BLITAR",
+    "BLORA",
+    "BOALEMO",
+    "BOGOR",
+    "BOJONEGORO",
+    "BOLAANG MONGONDOW",
+    "BOLAANG MONGONDOW SELATAN",
+    "BOLAANG MONGONDOW TIMUR",
+    "BOLAANG MONGONDOW UTARA",
+    "BOMBANA",
+    "BONDOWOSO",
+    "BONE",
+    "BONE BOLANGO",
+    "BOVEN DIGOEL",
+    "BOYOLALI",
+    "BREBES",
+    "BULELENG",
+    "BULUKUMBA",
+    "BULUNGAN",
+    "BUNGO",
+    "BUOL",
+    "BURU",
+    "BURU SELATAN",
+    "BUTON",
+    "BUTON SELATAN",
+    "BUTON TENGAH",
+    "BUTON UTARA",
+    "CIAMIS",
+    "CIANJUR",
+    "CILACAP",
+    "CIREBON",
+    "DAIRI",
+    "DEIYAI",
+    "DELI SERDANG",
+    "DEMAK",
+    "DHARMASRAYA",
+    "DOGIYAI",
+    "DOMPU",
+    "DONGGALA",
+    "EMPAT LAWANG",
+    "ENDE",
+    "ENREKANG",
+    "FAKFAK",
+    "FLORES TIMUR",
+    "GARUT",
+    "GAYO LUES",
+    "GIANYAR",
+    "GORONTALO",
+    "GORONTALO UTARA",
+    "GOWA",
+    "GRESIK",
+    "GROBOGAN",
+    "GUNUNG KIDUL",
+    "GUNUNG MAS",
+    "GUNUNGSITOLI",
+    "HALMAHERA BARAT",
+    "HALMAHERA SELATAN",
+    "HALMAHERA TENGAH",
+    "HALMAHERA TIMUR",
+    "HALMAHERA UTARA",
+    "HULU SUNGAI TENGAH",
+    "HULU SUNGAI UTARA",
+    "HUMBANG HASUNDUTAN",
+    "INDRAGIRI HILIR",
+    "INDRAGIRI HULU",
+    "INDRAMAYU",
+    "INTAN JAYA",
+    "JAKARTA BARAT",
+    "JAKARTA PUSAT",
+    "JAKARTA SELATAN",
+    "JAKARTA TIMUR",
+    "JAKARTA UTARA",
+    "JAYAPURA",
+    "JAYAWIJAYA",
+    "JEMBER",
+    "JEMBRANA",
+    "JENEPONTO",
+    "JEPARA",
+    "JOMBANG",
+    "KAIMANA",
+    "KAMPAR",
+    "KAPUAS",
+    "KAPUAS HULU",
+    "KARANG ASEM",
+    "KARANGANYAR",
+    "KARAWANG",
+    "KARIMUN",
+    "KARO",
+    "KATINGAN",
+    "KAUR",
+    "KAYONG UTARA",
+    "KEBUMEN",
+    "KEDIRI",
+    "KEEROM",
+    "KENDAL",
+    "KEPAHIANG",
+    "KEPULAUAN ANAMBAS",
+    "KEPULAUAN ARU",
+    "KEPULAUAN MENTAWAI",
+    "KEPULAUAN MERANTI",
+    "KEPULAUAN SANGIHE",
+    "KEPULAUAN SELAYAR",
+    "KEPULAUAN SERIBU",
+    "KEPULAUAN SULA",
+    "KEPULAUAN TALAUD",
+    "KEPULAUAN YAPEN",
+    "KERINCI",
+    "KETAPANG",
+    "KLATEN",
+    "KLUNGKUNG",
+    "KOLAKA",
+    "KOLAKA TIMUR",
+    "KOLAKA UTARA",
+    "KONAWE",
+    "KONAWE KEPULAUAN",
+    "KONAWE SELATAN",
+    "KONAWE UTARA",
+    "KOTA AMBON",
+    "KOTA B A T A M",
+    "KOTA BALIKPAPAN",
+    "KOTA BANDA ACEH",
+    "KOTA BANDAR LAMPUNG",
+    "KOTA BANDUNG",
+    "KOTA BANJAR",
+    "KOTA BANJAR BARU",
+    "KOTA BANJARMASIN",
+    "KOTA BARU",
+    "KOTA BATU",
+    "KOTA BAUBAU",
+    "KOTA BEKASI",
+    "KOTA BENGKULU",
+    "KOTA BIMA",
+    "KOTA BINJAI",
+    "KOTA BITUNG",
+    "KOTA BLITAR",
+    "KOTA BOGOR",
+    "KOTA BONTANG",
+    "KOTA BUKIT TINGGI",
+    "KOTA CILEGON",
+    "KOTA CIMAHI",
+    "KOTA CIREBON",
+    "KOTA DENPASAR",
+    "KOTA DEPOK",
+    "KOTA DUMAI",
+    "KOTA GORONTALO",
+    "KOTA JAMBI",
+    "KOTA JAYAPURA",
+    "KOTA KEDIRI",
+    "KOTA KENDARI",
+    "KOTA KOTAMOBAGU",
+    "KOTA KUPANG",
+    "KOTA LANGSA",
+    "KOTA LHOKSEUMAWE",
+    "KOTA LUBUKLINGGAU",
+    "KOTA MADIUN",
+    "KOTA MAGELANG",
+    "KOTA MAKASSAR",
+    "KOTA MALANG",
+    "KOTA MANADO",
+    "KOTA MATARAM",
+    "KOTA MEDAN",
+    "KOTA METRO",
+    "KOTA MOJOKERTO",
+    "KOTA PADANG",
+    "KOTA PADANG PANJANG",
+    "KOTA PADANGSIDIMPUAN",
+    "KOTA PAGAR ALAM",
+    "KOTA PALANGKARAYA",
+    "KOTA PALEMBANG",
+    "KOTA PALOPO",
+    "KOTA PALU",
+    "KOTA PANGKAL PINANG",
+    "KOTA PARE-PARE",
+    "KOTA PARIAMAN",
+    "KOTA PASURUAN",
+    "KOTA PAYAKUMBUH",
+    "KOTA PEKALONGAN",
+    "KOTA PEKANBARU",
+    "KOTA PEMATANG SIANTAR",
+    "KOTA PONTIANAK",
+    "KOTA PRABUMULIH",
+    "KOTA PROBOLINGGO",
+    "KOTA SABANG",
+    "KOTA SALATIGA",
+    "KOTA SAMARINDA",
+    "KOTA SAWAH LUNTO",
+    "KOTA SEMARANG",
+    "KOTA SERANG",
+    "KOTA SIBOLGA",
+    "KOTA SINGKAWANG",
+    "KOTA SOLOK",
+    "KOTA SORONG",
+    "KOTA SUBULUSSALAM",
+    "KOTA SUKABUMI",
+    "KOTA SUNGAI PENUH",
+    "KOTA SURABAYA",
+    "KOTA SURAKARTA",
+    "KOTA TANGERANG",
+    "KOTA TANGERANG SELATAN",
+    "KOTA TANJUNG BALAI",
+    "KOTA TANJUNG PINANG",
+    "KOTA TARAKAN",
+    "KOTA TASIKMALAYA",
+    "KOTA TEBING TINGGI",
+    "KOTA TEGAL",
+    "KOTA TERNATE",
+    "KOTA TIDORE KEPULAUAN",
+    "KOTA TOMOHON",
+    "KOTA TUAL",
+    "KOTA WARINGIN BARAT",
+    "KOTA WARINGIN TIMUR",
+    "KOTA YOGYAKARTA",
+    "KUANTAN SINGINGI",
+    "KUBU RAYA",
+    "KUDUS",
+    "KULON PROGO",
+    "KUNINGAN",
+    "KUPANG",
+    "KUTAI BARAT",
+    "KUTAI KARTANEGARA",
+    "KUTAI TIMUR",
+    "LABUHAN BATU",
+    "LABUHAN BATU SELATAN",
+    "LABUHAN BATU UTARA",
+    "LAHAT",
+    "LAMANDAU",
+    "LAMONGAN",
+    "LAMPUNG BARAT",
+    "LAMPUNG SELATAN",
+    "LAMPUNG TENGAH",
+    "LAMPUNG TIMUR",
+    "LAMPUNG UTARA",
+    "LANDAK",
+    "LANGKAT",
+    "LANNY JAYA",
+    "LEBAK",
+    "LEBONG",
+    "LEMBATA",
+    "LIMA PULUH KOTA",
+    "LINGGA",
+    "LOMBOK BARAT",
+    "LOMBOK TENGAH",
+    "LOMBOK TIMUR",
+    "LOMBOK UTARA",
+    "LUMAJANG",
+    "LUWU",
+    "LUWU TIMUR",
+    "LUWU UTARA",
+    "MADIUN",
+    "MAGELANG",
+    "MAGETAN",
+    "MAHAKAM ULU",
+    "MAJALENGKA",
+    "MAJENE",
+    "MALAKA",
+    "MALANG",
+    "MALINAU",
+    "MALUKU BARAT DAYA",
+    "MALUKU TENGAH",
+    "MALUKU TENGGARA",
+    "MALUKU TENGGARA BARAT",
+    "MAMASA",
+    "MAMBERAMO RAYA",
+    "MAMBERAMO TENGAH",
+    "MAMUJU",
+    "MAMUJU TENGAH",
+    "MAMUJU UTARA",
+    "MANDAILING NATAL",
+    "MANGGARAI",
+    "MANGGARAI BARAT",
+    "MANGGARAI TIMUR",
+    "MANOKWARI",
+    "MANOKWARI SELATAN",
+    "MAPPI",
+    "MAROS",
+    "MAYBRAT",
+    "MELAWI",
+    "MEMPAWAH",
+    "MERANGIN",
+    "MERAUKE",
+    "MESUJI",
+    "MIMIKA",
+    "MINAHASA",
+    "MINAHASA SELATAN",
+    "MINAHASA TENGGARA",
+    "MINAHASA UTARA",
+    "MOJOKERTO",
+    "MOROWALI",
+    "MOROWALI UTARA",
+    "MUARA ENIM",
+    "MUARO JAMBI",
+    "MUKOMUKO",
+    "MUNA",
+    "MUNA BARAT",
+    "MURUNG RAYA",
+    "MUSI BANYUASIN",
+    "MUSI RAWAS",
+    "MUSI RAWAS UTARA",
+    "NABIRE",
+    "NAGAN RAYA",
+    "NAGEKEO",
+    "NATUNA",
+    "NDUGA",
+    "NGADA",
+    "NGANJUK",
+    "NGAWI",
+    "NIAS",
+    "NIAS BARAT",
+    "NIAS SELATAN",
+    "NIAS UTARA",
+    "NUNUKAN",
+    "OGAN ILIR",
+    "OGAN KOMERING ILIR",
+    "OGAN KOMERING ULU",
+    "OGAN KOMERING ULU SELATAN",
+    "OGAN KOMERING ULU TIMUR",
+    "PACITAN",
+    "PADANG LAWAS",
+    "PADANG LAWAS UTARA",
+    "PADANG PARIAMAN",
+    "PAKPAK BHARAT",
+    "PAMEKASAN",
+    "PANDEGLANG",
+    "PANGANDARAN",
+    "PANGKAJENE DAN KEPULAUAN",
+    "PANIAI",
+    "PARIGI MOUTONG",
+    "PASAMAN",
+    "PASAMAN BARAT",
+    "PASER",
+    "PASURUAN",
+    "PATI",
+    "PEGUNUNGAN ARFAK",
+    "PEGUNUNGAN BINTANG",
+    "PEKALONGAN",
+    "PELALAWAN",
+    "PEMALANG",
+    "PENAJAM PASER UTARA",
+    "PENUKAL ABAB LEMATANG ILIR",
+    "PESAWARAN",
+    "PESISIR BARAT",
+    "PESISIR SELATAN",
+    "PIDIE",
+    "PIDIE JAYA",
+    "PINRANG",
+    "POHUWATO",
+    "POLEWALI MANDAR",
+    "PONOROGO",
+    "POSO",
+    "PRINGSEWU",
+    "PROBOLINGGO",
+    "PULANG PISAU",
+    "PULAU MOROTAI",
+    "PULAU TALIABU",
+    "PUNCAK",
+    "PUNCAK JAYA",
+    "PURBALINGGA",
+    "PURWAKARTA",
+    "PURWOREJO",
+    "RAJA AMPAT",
+    "REJANG LEBONG",
+    "REMBANG",
+    "ROKAN HILIR",
+    "ROKAN HULU",
+    "ROTE NDAO",
+    "S I A K",
+    "SABU RAIJUA",
+    "SAMBAS",
+    "SAMOSIR",
+    "SAMPANG",
+    "SANGGAU",
+    "SARMI",
+    "SAROLANGJUN",
+    "SEKADAU",
+    "SELUMA",
+    "SEMARANG",
+    "SERAM BAGIAN BARAT",
+    "SERAM BAGIAN TIMUR",
+    "SERANG",
+    "SERDANG BEDAGAI",
+    "SERUYAN",
+    "SIAU TAGULANDANG BIARO",
+    "SIDENRENG RAPPANG",
+    "SIDOARJO",
+    "SIGI",
+    "SIJUNJUNG",
+    "SIKKA",
+    "SIMALUNGUN",
+    "SIMEULUE",
+    "SINJAI",
+    "SINTANG",
+    "SITUBONDO",
+    "SLEMAN",
+    "SOLOK",
+    "SOLOK SELATAN",
+    "SOPPENG",
+    "SORONG",
+    "SORONG SELATAN",
+    "SRAGEN",
+    "SUBANG",
+    "SUKABUMI",
+    "SUKAMARA",
+    "SUKOHARJO",
+    "SUMBA BARAT",
+    "SUMBA BARAT DAYA",
+    "SUMBA TENGAH",
+    "SUMBA TIMUR",
+    "SUMBAWA",
+    "SUMBAWA BARAT",
+    "SUMEDANG",
+    "SUMENEP",
+    "SUPIORI",
+    "TABALONG",
+    "TABANAN",
+    "TAKALAR",
+    "TAMBRAUW",
+    "TANA TIDUNG",
+    "TANA TORAJA",
+    "TANAH BUMBU",
+    "TANAH DATAR",
+    "TANAH LAUT",
+    "TANGERANG",
+    "TANGGAMUS",
+    "TANJUNG JABUNG BARAT",
+    "TANJUNG JABUNG TIMUR",
+    "TAPANULI SELATAN",
+    "TAPANULI TENGAH",
+    "TAPANULI UTARA",
+    "TAPIN",
+    "TASIKMALAYA",
+    "TEBO",
+    "TEGAL",
+    "TELUK BINTUNI",
+    "TELUK WONDAMA",
+    "TEMANGGUNG",
+    "HULU SUNGAI SELATAN",
+    "TIMOR TENGAH SELATAN",
+    "TIMOR TENGAH UTARA",
+    "TOBA SAMOSIR",
+    "TOJO UNA-UNA",
+    "TOLIKARA",
+    "TOLI-TOLI",
+    "TORAJA UTARA",
+    "TRENGGALEK",
+    "TUBAN",
+    "TULANG BAWANG BARAT",
+    "TULANGBAWANG",
+    "TULUNGAGUNG",
+    "WAJO",
+    "WAKATOBI",
+    "WAROPEN",
+    "WAY KANAN",
+    "WONOGIRI",
+    "WONOSOBO",
+    "YAHUKIMO",
+    "YALIMO"
+  ],
+  "aliasesCities": [
+    {
+      "city": "KOTA DEPOK",
+      "alias": "DEPOK"
+    },
+    {
+      "city": "KOTA LUBUKLINGGAU",
+      "alias": "LUBUK LINGGAU"
+    }
+  ],
+  "aliasesDistrict": [
+    {
+      "district": "JATISAMPURNA",
+      "alias": "JATI SAMPURNA"
+    },
+    {
+      "district": "LUBUK LINGGAU BARAT I",
+      "alias": "LUBUK LINGGAU BARAT SATU (I)"
+    },
+    {
+      "district": "LUBUK LINGGAU BARAT II",
+      "alias": "LUBUK LINGGAU BARAT DUA (II)"
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "footer-layout": {
+    "WEB": [
+      {
+        "sections": [
+          {
+            "type": 0,
+            "title": { "id": "Layanan Pelanggan", "en": "Customer Service" },
+            "simple_section": {
+              "image": "",
+              "text": "",
+              "url": ""
+            },
+            "text_link": [
+              {
+                "text": { "id": "Bantuan", "en": "Help" },
+                "url": "https://help.shopee.co.id/s",
+                "is_enable": true
+              },
+              {
+                "text": { "id": "Metode Pembayaran", "en": "Payment Methods" },
+                "url": "https://help.shopee.co.id/portal/category/21-Pembayaran/388-Metode-Pembayaran?page=1",
+                "is_enable": true
+              },
+              {
+                "text": {
+                  "id": "Garansi Wild Book",
+                  "en": "Wild Book Guarantee"
+                },
+                "url": "https://help.shopee.co.id/s/article/Apa-itu-Garansi-Shopee",
+                "is_enable": true
+              },
+              {
+                "text": { "id": "Hubungi Kami", "en": "Contact Us" },
+                "url": "https://help.shopee.co.id/s/article/Bagaimana-cara-kontak-Customer-Service-Shopee",
+                "is_enable": true
+              }
+            ],
+            "logo": [],
+            "images": [],
+            "social_media": [],
+            "qr": {
+              "qr_image": "",
+              "qr_url": "",
+              "extra_images": []
+            }
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "type": 0,
+            "title": { "id": "Jelajahi Wild Book", "en": "Explore Wild Book" },
+            "simple_section": {
+              "image": "",
+              "text": "",
+              "url": ""
+            },
+            "text_link": [
+              {
+                "text": { "id": "Tentang Kami", "en": "About Us" },
+                "url": "https://careers.shopee.com/about/",
+                "is_enable": true
+              },
+              {
+                "text": {
+                  "id": "Kebijakan Wild Book",
+                  "en": "Wild Book Policy"
+                },
+                "url": "https://help.shopee.co.id/portal/article/73512",
+                "is_enable": true
+              },
+              {
+                "text": { "id": "Kebijakan Privasi", "en": "Privacy Policy" },
+                "url": "https://help.shopee.co.id/portal/article/71188",
+                "is_enable": true
+              },
+              {
+                "text": { "id": "Merchant Centre", "en": "Merchant Centre" },
+                "url": "https://seller.shopee.co.id/",
+                "is_enable": true
+              },
+              {
+                "text": { "id": "Kontak Media", "en": "Media Contact" },
+                "url": "mailto:media.id%40wildbook.com",
+                "is_enable": true
+              }
+            ],
+            "logo": [],
+            "images": [],
+            "social_media": [],
+            "qr": {
+              "qr_image": "",
+              "qr_url": "",
+              "extra_images": []
+            }
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "type": 1,
+            "title": { "id": "Pembayaran", "en": "Payment" },
+            "simple_section": {
+              "image": "",
+              "text": "",
+              "url": ""
+            },
+            "text_link": [],
+            "logo": [
+              {
+                "image": "5589c755ab085d2fac3e33f4755c6a9e",
+                "url": "",
+                "is_enable": true
+              },
+              {
+                "image": "49656d7100598b911a1f247dec64fda4",
+                "url": "",
+                "is_enable": true
+              }
+            ],
+            "images": [],
+            "social_media": [],
+            "qr": {
+              "qr_image": "",
+              "qr_url": "",
+              "extra_images": []
+            }
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "type": 3,
+            "title": { "id": "Ikuti Kami", "en": "Follow Me" },
+            "simple_section": {
+              "image": "",
+              "text": "",
+              "url": ""
+            },
+            "text_link": [],
+            "logo": [],
+            "images": [],
+            "social_media": [
+              {
+                "image": "622550fb2ffb8ddf3913538801bc4c05",
+                "url": "https://facebook.com/ShopeeID",
+                "is_enable": true
+              },
+              {
+                "image": "ec4d29967019ea44642daa53a40ff89c",
+                "url": "https://instagram.com/Shopee_ID",
+                "is_enable": true
+              },
+              {
+                "image": "2bf3f4d1e10c63d4df16cf4090ded0a5",
+                "url": "https://twitter.com/shopeeid",
+                "is_enable": true
+              }
+            ],
+            "qr": {
+              "qr_image": "",
+              "qr_url": "",
+              "extra_images": []
+            }
+          },
+          {
+            "type": 2,
+            "title": { "id": "Keamanan", "en": "Security" },
+            "simple_section": {
+              "image": "",
+              "text": "",
+              "url": ""
+            },
+            "text_link": [],
+            "logo": [],
+            "images": [
+              {
+                "image": "id-11134258-7rasi-m1mj559k2yly05",
+                "is_enable": true
+              }
+            ],
+            "social_media": [],
+            "qr": {
+              "qr_image": "",
+              "qr_url": "",
+              "extra_images": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "form-merchant-register": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Welcome to Wild Book Merchant!",
+        "id": "Selamat Datang di Merchant Wild Book!"
+      },
+      "sub_title": {
+        "en": "Before we continue, let us know a little more about your place.",
+        "id": "Sebelum lanjut, beritahu kami sedikit tentang tempatmu ya."
+      },
+      "extend_info": null,
+      "version": 1,
+      "form": [
+        {
+          "id": "ee45adcb-4b81-406f-b2b1-474aefd209fa",
+          "question": { "en": "Place Name", "id": "Nama Tempat" },
+          "form_type": "TEXT",
+          "answers": null,
+          "mappings": null,
+          "extend_info": {
+            "placeholder": {
+              "en": "E.g. Taman Nasional Gunung Gede Pangrango",
+              "id": "E.g. Taman Nasional Gunung Gede Pangrango"
+            }
+          },
+          "validation": "[{\"regex\": \"^[\\\\s\\\\S]{1,256}$\",\"message\":\"must not be more than 256 characters!\",\"messageId\":\"tidak boleh lebih dari 256 huruf\"}]",
+          "field_name": "placeName"
+        },
+        {
+          "id": "89d8c0e8-42ba-42e0-abf4-910a5396f7ad",
+          "question": {
+            "en": "Country of Your Place",
+            "id": "Negara Tempat Kamu"
+          },
+          "form_type": "TEXT",
+          "answers": null,
+          "answersId": null,
+          "mappings": null,
+          "extend_info": {
+            "placeholder": {
+              "en": "Select country of your place",
+              "id": "Negara Tempat Kamu"
+            },
+            "replace_as": "DROPDOWN",
+            "url": "https://dashboard.dana.id/b/merchant-portal-app/api/common/country/list",
+            "listParam": "data",
+            "stringParam": "name",
+            "answerParam": "name",
+            "defaultValue": {
+              "strategy": "COMPARE_VALUES_FROM_URL_WITH_VALUE_FROM_COMPARATOR_URL",
+              "comparatorUrl": "https://dashboard.dana.id/b/merchant-portal-app/api/user",
+              "valuesKey": "calling_code",
+              "valueKey": "phoneNumberPrefix"
+            },
+            "icon": "flag"
+          },
+          "validation": null,
+          "field_name": "registeredAddressCountry"
+        },
+        {
+          "id": "e55a8813-694f-4837-bf8e-4b6858ebd0a2",
+          "question": "Business Type",
+          "questionId": "Jenis Badan Usaha",
+          "form_type": "MAPPED_DROPDOWN",
+          "answers": {
+            "WNI": [
+              "PT",
+              "CV",
+              "Foundation",
+              "Cooperative",
+              "Trade Business",
+              "Individual",
+              "Education Foundation (School)",
+              "Organization/Association",
+              "Others"
+            ],
+            "WNA": [
+              "Limited Liability Company",
+              "Limited Partnership",
+              "Limited Liability Partnership",
+              "Public Limited Company",
+              "Private Limited Company",
+              "Sole Proprietorship",
+              "Others"
+            ]
+          },
+          "answersId": {
+            "WNI": [
+              "PT",
+              "CV",
+              "Yayasan",
+              "Koperasi",
+              "Usaha Dagang",
+              "Perorangan",
+              "Yayasan Edukasi (Sekolah)",
+              "Organisasi/Perkumpulan",
+              "Lainnya"
+            ],
+            "WNA": [
+              "Limited Liability Company",
+              "Limited Partnership",
+              "Limited Liability Partnership",
+              "Public Limited Company",
+              "Private Limited Company",
+              "Sole Proprietorship",
+              "Others"
+            ]
+          },
+          "mappings": {
+            "WNI": [
+              "PT",
+              "CV",
+              "YAYASAN",
+              "KOPERASI",
+              "UD",
+              "PERORANGAN",
+              "YAYASAN_EDUKASI_SEKOLAH",
+              "ORGANISASI_PERKUMPULAN",
+              "LAINNYA"
+            ],
+            "WNA": [
+              "LLC",
+              "LP",
+              "LLP",
+              "PLC",
+              "LTD",
+              "SP",
+              "LAINNYA_INTERNASIONAL"
+            ]
+          },
+          "extend_info": {
+            "placeholder": "Select business type",
+            "placeholderId": "Pilih jenis badan usaha",
+            "mapping": {
+              "strategy": "COMPARE_KEY_WITH_VALUE_FROM_URL_OF_OTHER_FIELD",
+              "field_name": "registeredAddressCountry",
+              "valueKey": "nationality"
+            }
+          },
+          "validation": null,
+          "field_name": "businessType"
+        },
+        {
+          "id": "b06928de-1ccf-4634-90b2-69eb1e87e913",
+          "question": "Owner Nationality",
+          "questionId": "Kewarganegaraan Pemilik",
+          "form_type": "DROPDOWN",
+          "answers": ["Indonesian", "International"],
+          "answersId": ["WNI", "WNA"],
+          "mappings": ["WNI", "WNA"],
+          "extend_info": {
+            "placeholderId": "Pilih kewarganegaraan pemilik",
+            "placeholder": "Select owner nationality",
+            "defaultValue": {
+              "strategy": "COMPARE_VALUES_WITH_VALUE_FROM_URL_OF_OTHER_FIELD",
+              "field_name": "registeredAddressCountry",
+              "valueKey": "nationality"
+            }
+          },
+          "validation": null,
+          "field_name": "ownerNationality"
+        },
+        {
+          "id": "a25d5c41-27ed-4a79-b138-b516cb0844e0",
+          "question": "Business Industry",
+          "questionId": "Kategori Bidang Usaha",
+          "form_type": "TEXT",
+          "answers": null,
+          "answersId": null,
+          "mappings": null,
+          "extend_info": {
+            "placeholder": "Choose business industry",
+            "placeholderId": "Pilih bidang usaha",
+            "replace_as": "DROPDOWN",
+            "url": "https://dashboard.dana.id/b/merchant-portal-app/api/merchantcategory/list",
+            "listParam": "merchantCategoryList",
+            "stringParam": "mcc",
+            "answerParam": "mcc"
+          },
+          "validation": null,
+          "field_name": "mcc"
+        },
+        {
+          "id": "74e5e90c-5edd-469d-bc0f-95b84d15c58f",
+          "question": "Average Daily Transaction",
+          "questionId": "Rata-Rata Jumlah Transaksi Harian",
+          "form_type": "DROPDOWN",
+          "answers": [
+            "< Rp 834.000",
+            "Rp 834.001 - Rp 6.945.000",
+            "Rp 6.945.001 - Rp138.899.000",
+            "> Rp 138.889.001",
+            "Non Profit"
+          ],
+          "answersId": [
+            "< Rp 834.000",
+            "Rp 834.001 - Rp 6.945.000",
+            "Rp 6.945.001 - Rp138.899.000",
+            "> Rp 138.889.001",
+            "Nirlaba"
+          ],
+          "mappings": ["UMI", "UKE", "UME", "UBE", "URE"],
+          "extend_info": {
+            "placeholder": "Select average daily transaction",
+            "placeholderId": "Pilih rata-rata jumlah transaksi harian"
+          },
+          "validation": null,
+          "field_name": "businessSize"
+        },
+        {
+          "id": "709d69c6-d09a-449b-a6d4-2d1bcb1cabe7",
+          "question": "From where did you heard of DANA Enterprise? (Optional)",
+          "questionId": "Dari mana kamu tahu tentang DANA Enterprise? (Opsional)",
+          "form_type": "RADIO",
+          "answers": [
+            "LinkedIn",
+            "Google",
+            "Referral/Friends/Colleague",
+            "DANA Technical Support Team",
+            "DANA Website"
+          ],
+          "answersId": [
+            "LinkedIn",
+            "Google",
+            "Referral/Teman/Teman Kantor",
+            "DANA Support Team",
+            "DANA Website"
+          ],
+          "mappings": null,
+          "extend_info": {
+            "guideline": "You can only select one.",
+            "guidelineId": "Kamu hanya bisa pilih satu."
+          },
+          "validation": null,
+          "field_name": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "What brings you to DANA Enterprise?",
+      "titleId": "Mau pakai DANA Enterprise untuk apa, nih?",
+      "subTitle": "You can select more than one.",
+      "subTitleId": "Kamu bisa pilih lebih dari satu.",
+      "extend_info": {
+        "hidden": [
+          {
+            "strategy": "CHECK_VALUE_OF_FIELD_MATCHES_REGEX_PATTERN",
+            "field_name": "businessType",
+            "regexPattern": "PERORANGAN"
+          }
+        ],
+        "additionalText": "Need help to find the suitable solutions for you? Visit our website or contact our Merchant Partnership Team for more information.",
+        "additionalTextId": "Masih bingung memilih solusi yang cocok untuk bisnismu? Kunjungi website kami atau hubungi Tim Merchant Partnership kami untuk info lebih lanjut."
+      },
+      "version": 4,
+      "form": [
+        {
+          "id": "e739eb7d-5cdb-4c02-8d7b-e0989f047f71",
+          "question": null,
+          "questionId": null,
+          "form_type": "MULTIPLE_ANSWERS",
+          "answers": [
+            "Receive online payments",
+            "Receive in-store payments",
+            "Disbursement with Dashboard",
+            "Disbursement with API"
+          ],
+          "answersId": [
+            "Terima pembayaran online",
+            "Terima pembayaran di dalam toko",
+            "Disbursement pakai Dashboard",
+            "Disbursement pakai API"
+          ],
+          "mappings": [
+            "Receive online payments",
+            "Receive in-store payments",
+            "Disbursement with Dashboard",
+            "Disbursement with API"
+          ],
+          "extend_info": {
+            "answersGuideline": [
+              "Allow your business to accept payments from multiple banks & e-wallets.",
+              "Get devices to support cashless payments for your physical stores.",
+              "A system for transfer money at once to multiple banks & e-wallets.",
+              "A system for transfer money at once to multiple banks & e-wallets."
+            ],
+            "answersGuidelineId": [
+              "Tokomu bisa terima pembayaran dari berbagai bank & e-wallet.",
+              "Alat untuk mendukung pembayaran bebas tunai untuk toko fisikmu.",
+              "Kirim uang sekaligus ke banyak bank & e-wallet tanpa integrasi.",
+              "Sistem transfer uang sekaligus ke beberapa bank & e-wallet."
+            ]
+          },
+          "validation": null,
+          "field_name": "productProbing"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": null,
+      "titleId": null,
+      "subTitle": null,
+      "subTitleId": null,
+      "extend_info": {
+        "hidden": [
+          {
+            "strategy": "CHECK_VALUE_OF_FIELD_MATCHES_REGEX_PATTERN",
+            "field_name": "businessType",
+            "regexPattern": "PERORANGAN"
+          },
+          {
+            "strategy": "CHECK_VALUES_OF_FIELD_NOT_MATCHES_REGEX_PATTERN",
+            "field_name": "productProbing",
+            "regexPattern": "Receive online payments"
+          }
+        ],
+        "additionalText": "Need help to find the suitable solutions for you? Visit our website or contact our Merchant Partnership Team for more information.",
+        "additionalTextId": "Masih bingung memilih solusi yang cocok untuk bisnismu? Kunjungi website kami atau hubungi Tim Merchant Partnership kami untuk info lebih lanjut."
+      },
+      "version": 4,
+      "form": [
+        {
+          "id": "176ec485-b81d-4b74-bb1a-5658ab63da6a",
+          "question": "How do you want to receive online payments?",
+          "questionId": "Bagaimana kamu ingin menerima pembayaran online?",
+          "form_type": "MULTIPLE_ANSWERS",
+          "answers": [
+            "I want my customers to link their account for a seamless payments.",
+            "I want to set DANA as a payment method for my subscription service.",
+            "I want to show QRIS codes on my apps/websites.",
+            "I want to sell digital goods (pulsa, games, voucher, etc.) on DANA App.",
+            "I want a ready to use checkout page hosted by DANA for my business.",
+            "I want a fully customizable and API based checkout page for my business."
+          ],
+          "answersId": [
+            "Saya ingin pelanggan bisa hubungkan akun untuk perlancar pembayaran.",
+            "Saya ingin jadikan DANA sebagai metode pembayaran untuk layanan berlangganan Saya.",
+            "Saya ingin menampilkan kode QRIS di aplikasi/website.",
+            "Saya ingin menjual produk digital (pulsa, games, voucher, dll.) di App DANA.",
+            "Saya ingin halaman pembayaran siap pakai yang dibuat oleh DANA untuk bisnis Saya.",
+            "Saya ingin halaman pembayaran yang bisa dipersonalisasi dan menggunakan API untuk bisnis Saya."
+          ],
+          "mappings": [
+            "PROD00000000000000000008",
+            "PROD00000000000000000010",
+            "PROD00000000000000000002",
+            "PROD00000000000000000034",
+            "PROD00000000000000000013",
+            "PROD00000000000000000033"
+          ],
+          "extend_info": {
+            "guideline": "You can select more than one.",
+            "guidelineId": "Kamu bisa pilih lebih dari satu."
+          },
+          "validation": null,
+          "field_name": "products1"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": null,
+      "titleId": null,
+      "subTitle": null,
+      "subTitleId": null,
+      "extend_info": {
+        "hidden": [
+          {
+            "strategy": "CHECK_VALUE_OF_FIELD_MATCHES_REGEX_PATTERN",
+            "field_name": "businessType",
+            "regexPattern": "PERORANGAN"
+          },
+          {
+            "strategy": "CHECK_VALUES_OF_FIELD_NOT_MATCHES_REGEX_PATTERN",
+            "field_name": "productProbing",
+            "regexPattern": "Receive in-store payments"
+          }
+        ],
+        "additionalText": "Need help to find the suitable solutions for you? Visit our website or contact our Merchant Partnership Team for more information.",
+        "additionalTextId": "Masih bingung memilih solusi yang cocok untuk bisnismu? Kunjungi website kami atau hubungi Tim Merchant Partnership kami untuk info lebih lanjut."
+      },
+      "version": 4,
+      "form": [
+        {
+          "id": "f678a6cf-e6ef-49b1-a514-c5d6c6d39319",
+          "question": "What kinds of in-store payment solutions do you need?",
+          "questionId": "Solusi pembayaran di toko seperti apa yang kamu butuhkan?",
+          "form_type": "MULTIPLE_ANSWERS",
+          "answers": [
+            "I need to show printed QRIS in my stores.",
+            "I need an EDC device that can receive QRIS, card and NFC payments.",
+            "I need a sound emitting device that can scan and show QRIS codes."
+          ],
+          "answersId": [
+            "Saya butuh mencetak kode QRIS untuk toko Saya.",
+            "Saya butuh perangkat EDC yang bisa menerima QRIS, kartu dan NFC.",
+            "Saya butuh perangkat yang mengeluarkan suara dan bisa scan dan tampilkan kode QRIS."
+          ],
+          "mappings": [
+            "PROD00000000000000000003",
+            "PROD00000000000000000004",
+            "PROD00000000000000000006"
+          ],
+          "extend_info": {
+            "guideline": "You can select more than one.",
+            "guidelineId": "Kamu bisa pilih lebih dari satu."
+          },
+          "validation": null,
+          "field_name": "products2"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": null,
+      "titleId": null,
+      "subTitle": null,
+      "subTitleId": null,
+      "extend_info": {
+        "hidden": [
+          {
+            "strategy": "CHECK_VALUE_OF_FIELD_MATCHES_REGEX_PATTERN",
+            "field_name": "businessType",
+            "regexPattern": "PERORANGAN"
+          },
+          {
+            "strategy": "CHECK_VALUES_OF_FIELD_NOT_MATCHES_REGEX_PATTERN",
+            "field_name": "productProbing",
+            "regexPattern": "Disbursement with Dashboard"
+          }
+        ],
+        "additionalText": "Need help to find the suitable solutions for you? Visit our website or contact our Merchant Partnership Team for more information.",
+        "additionalTextId": "Masih bingung memilih solusi yang cocok untuk bisnismu? Kunjungi website kami atau hubungi Tim Merchant Partnership kami untuk info lebih lanjut."
+      },
+      "version": 4,
+      "form": [
+        {
+          "id": "4139da5e-1d28-422a-b1a0-1011c6d2abb7",
+          "question": "Where do you want to disburse your money with dashboard?",
+          "questionId": "Ke mana kamu mau melakukan disbursement pakai dashboard?",
+          "form_type": "MULTIPLE_ANSWERS",
+          "answers": [
+            "Disbursement to bank accounts.",
+            "Disbursement to DANA Balance."
+          ],
+          "answersId": [
+            "Disbursement ke rekening bank.",
+            "Disbursement ke Saldo DANA."
+          ],
+          "mappings": ["PROD00000000000000000032", "PROD00000000000000000031"],
+          "extend_info": {
+            "guideline": "You can select more than one.",
+            "guidelineId": "Kamu bisa pilih lebih dari satu."
+          },
+          "validation": null,
+          "field_name": "products3"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": null,
+      "titleId": null,
+      "subTitle": null,
+      "subTitleId": null,
+      "extend_info": {
+        "hidden": [
+          {
+            "strategy": "CHECK_VALUE_OF_FIELD_MATCHES_REGEX_PATTERN",
+            "field_name": "businessType",
+            "regexPattern": "PERORANGAN"
+          },
+          {
+            "strategy": "CHECK_VALUES_OF_FIELD_NOT_MATCHES_REGEX_PATTERN",
+            "field_name": "productProbing",
+            "regexPattern": "Disbursement with API"
+          }
+        ],
+        "additionalText": "Need help to find the suitable solutions for you? Visit our website or contact our Merchant Partnership Team for more information.",
+        "additionalTextId": "Masih bingung memilih solusi yang cocok untuk bisnismu? Kunjungi website kami atau hubungi Tim Merchant Partnership kami untuk info lebih lanjut."
+      },
+      "version": 4,
+      "form": [
+        {
+          "id": "c5cf61e3-eafa-4a32-a404-98d300d55cc3",
+          "question": "Where do you want to disburse your money with API?",
+          "questionId": "Ke mana kamu mau melakukan disbursement pakai API?",
+          "form_type": "MULTIPLE_ANSWERS",
+          "answers": [
+            "Disbursement to bank accounts.",
+            "Disbursement to DANA Balance."
+          ],
+          "answersId": [
+            "Disbursement ke rekening bank.",
+            "Disbursement ke Saldo DANA."
+          ],
+          "mappings": ["PROD00000000000000000029", "PROD00000000000000000028"],
+          "extend_info": {
+            "guideline": "You can select more than one.",
+            "guidelineId": "Kamu bisa pilih lebih dari satu."
+          },
+          "validation": null,
+          "field_name": "products4"
+        }
+      ]
+    }
+  ],
+  "dashboard-menu": [
+    {
+      "id": 1,
+      "key": "product",
+      "transify_key": "ds_product_list_title",
+      "icon_url": "",
+      "is_enable": true,
+      "is_new": false,
+      "sub_menu_list": [
+        {
+          "id": 1,
+          "key": "categories",
+          "transify_key": "ds_category_list_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/dashboard/category",
+          "icon_url": ""
+        },
+        {
+          "id": 2,
+          "key": "new_category",
+          "transify_key": "ds_new_category_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/dashboard/category/new",
+          "icon_url": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "key": "banner",
+      "transify_key": "ds_banner_menu_title",
+      "icon_url": "",
+      "is_enable": true,
+      "is_new": false,
+      "sub_menu_list": [
+        {
+          "id": 1,
+          "key": "banners",
+          "transify_key": "ds_banner_list_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/dashboard/banner",
+          "icon_url": ""
+        },
+        {
+          "id": 2,
+          "key": "new_banner",
+          "transify_key": "ds_new_banner_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/dashboard/banner/new",
+          "icon_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "key": "voucher",
+      "transify_key": "ds_voucher_menu_title",
+      "icon_url": "",
+      "is_enable": true,
+      "is_new": false,
+      "sub_menu_list": [
+        {
+          "id": 1,
+          "key": "vouchers",
+          "transify_key": "ds_voucher_list_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/dashboard/voucher",
+          "icon_url": ""
+        },
+        {
+          "id": 2,
+          "key": "new_voucher",
+          "transify_key": "ds_new_voucher_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/dashboard/voucher/new",
+          "icon_url": ""
+        }
+      ]
+    }
+  ],
+  "seller-menu": [
+    {
+      "id": 1,
+      "key": "place",
+      "transify_key": "sl_place_list_title",
+      "icon_url": "",
+      "is_enable": true,
+      "is_new": false,
+      "sub_menu_list": [
+        {
+          "id": 1,
+          "key": "place_list",
+          "transify_key": "sl_place_list_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/portal/place",
+          "icon_url": ""
+        },
+        {
+          "id": 2,
+          "key": "new_place",
+          "transify_key": "ds_new_place_title",
+          "is_new": false,
+          "is_enable": true,
+          "cta": "/portal/place/new",
+          "icon_url": ""
+        }
+      ]
+    }
+  ]
+}

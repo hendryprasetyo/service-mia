@@ -1,0 +1,17 @@
+{
+  "ratio_image": {
+    "1/1": { "width": 1080, "height": 1080 },
+    "16/9": { "width": 1280, "height": 720 }
+  },
+  "cloud_folder_name_by_role": {
+    "USER": "customer",
+    "ADMIN": "admin",
+    "SELLER": "merchant"
+  },
+  "cloud_folder_name": {
+    "place_key": "places",
+    "banner_key": "banners",
+    "personal_key": "personal",
+    "public_key": "public"
+  }
+}

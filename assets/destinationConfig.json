@@ -1,0 +1,12 @@
+{
+  "destination_type": [
+    { "id": 1, "value": "RESERVATION" },
+    { "id": 2, "value": "PRODUCT" },
+    { "id": 3, "value": "SERVICE" },
+    { "id": 4, "value": "VOUCHER" },
+    { "id": 5, "value": "GIFT" },
+    { "id": 6, "value": "SUBSCRIPTION" },
+    { "id": 7, "value": "ADDON" },
+    { "id": 8, "value": "TICKET" }
+  ]
+}

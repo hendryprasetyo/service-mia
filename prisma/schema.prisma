@@ -1,0 +1,670 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["relationJoins", "fullTextSearch", "fullTextIndex", "omitApi"]
+  binaryTargets   = ["native", "linux-arm64-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_MYSQL_URL")
+}
+
+enum RoleUser {
+  STAF
+  ADMIN
+  USER
+  CORPORATE
+  DEMO
+  SELLER
+}
+
+enum TransactionStatus {
+  PENDING
+  SETTLEMENT
+  CANCEL
+  EXPIRE
+  FAILURE
+}
+
+enum OrderStatus {
+  INPROGRESS
+  DELIVERY
+  CANCELED // for transaction status cancel dan expire
+  REJECTED
+  COMPLETED
+  FAILURE
+}
+
+enum OrderType {
+  RESERVATION
+  PRODUCT
+  SERVICE
+  VOUCHER
+  GIFT
+  SUBSCRIPTION
+  ADDON
+  TICKET
+}
+
+enum OrderSubType {
+  GN // pendakian gunung
+  VL // vila
+  CP // camping
+  OA // outdoor activity
+  PD // product
+  VC // voucher
+  GF // gift
+  SBPT // subscription
+  AD // addon
+  TC // ticket
+}
+
+enum Nationality {
+  WNA
+  WNI
+}
+
+enum UserType {
+  CONSUMER
+  SELLER
+}
+
+enum VoucherType {
+  shipping
+  discount
+}
+
+enum VoucherValueType {
+  percentage
+  price
+}
+
+enum VoucherUsingType {
+  disposable
+  reusable
+  threshold
+  cashback
+}
+
+enum SourceVoucer {
+  mia
+  merchant
+}
+
+enum StatusUseVoucher {
+  used
+  revoke
+}
+
+enum Gender {
+  male
+  female
+  other
+}
+
+enum Position {
+  CS
+  MANAGER
+  SUPERVISOR
+  STAFF
+  CEO
+  COO
+  CTO
+  HR
+  ACCOUNTANT
+  MARKETING
+  SALES
+}
+
+enum BannerPosition {
+  TOP
+  BOTTOM
+  LEFT
+  RIGHT
+  CENTER
+}
+
+enum Days {
+  sunday
+  monday
+  tuesday
+  wednesday
+  thursday
+  friday
+  saturday
+}
+
+enum BannerType {
+  PROMO
+  ANNOUNCEMENT
+  WARNING
+  INFO
+}
+
+model users {
+  id                       String           @id @default(uuid()) @db.VarChar(45)
+  username                 String?          @unique
+  email                    String?          @unique
+  password                 String
+  phone_number             String?          @db.VarChar(25)
+  role                     RoleUser         @default(USER)
+  verified                 Boolean          @default(false)
+  is_deleted               Boolean          @default(false)
+  reset_password_token     String?          @unique
+  reset_password_token_exp String?
+  refresh_token            String?          @db.LongText
+  created_at               DateTime         @default(now())
+  updated_at               DateTime         @default(now()) @updatedAt
+  notification             notifications[]
+  user_identity            user_identity?
+  orders                   orders[]
+  user_profiles            user_profiles?
+  user_addresses           user_addresses[]
+  seller_info              seller_info?
+  vouchers                 voucher[]
+}
+
+model seller_info {
+  id           String              @id @default(uuid()) @db.VarChar(45)
+  user_id      String              @unique
+  seller_email String              @unique
+  is_deleted   Boolean             @default(false)
+  name         String
+  bio          String              @db.LongText
+  created_at   DateTime            @default(now())
+  user         users               @relation(fields: [user_id], references: [id])
+  addresses    user_addresses[]
+  places       place_destination[]
+  orders       order_detail[]
+
+  @@index([name, user_id, seller_email])
+}
+
+model admin_info {
+  id                     Int                      @id @default(autoincrement())
+  user_id                String                   @unique @db.VarChar(45)
+  nip                    String                   @unique @db.VarChar(20)
+  position               Position
+  salutation             String                   @default("Mr/Mrs") @db.VarChar(6)
+  is_active              Boolean
+  destination_categories destination_categories[]
+  banners                banners[]
+
+  @@index([position])
+}
+
+model user_profiles {
+  id                        Int          @id @default(autoincrement())
+  user_id                   String       @unique @db.VarChar(45)
+  salutation                String       @default("Mr/Mrs") @db.VarChar(6)
+  first_name                String
+  last_name                 String?
+  customer_name             String?
+  street_name               String?
+  other_person_name         String?
+  avatar_text               String
+  avatar                    String
+  email                     String
+  nationality               Nationality?
+  gender                    Gender?
+  religion                  String?      @db.VarChar(40)
+  district                  String?      @db.VarChar(100)
+  city                      String?      @db.VarChar(40)
+  province                  String?      @db.VarChar(35)
+  country                   String?      @db.VarChar(35)
+  date_of_birth             String? // YYYY-MM-DD
+  place_of_birth            String?
+  main_phone_number         String?      @db.VarChar(25)
+  secondary_email           String?
+  other_person_phone_number String?      @db.VarChar(25)
+  emergency_phone_number    String?      @db.VarChar(25)
+  emergency_email           String?
+  height                    Float?
+  weight                    Float?
+  is_deleted                Boolean      @default(false)
+  user                      users        @relation(fields: [user_id], references: [id])
+}
+
+model user_addresses {
+  id                     String      @id @default(uuid()) @db.VarChar(45)
+  user_id                String      @db.VarChar(45)
+  seller_id              String      @db.VarChar(45)
+  address_type           String
+  user_type              UserType
+  address_line1          String      @db.LongText
+  recipient_name         String
+  address_line2          String?     @db.LongText
+  city                   String
+  province               String
+  district               String
+  state                  String?
+  house_number           String?
+  residence_name         String?
+  building_name          String?
+  floor                  String?
+  postal_code            String
+  country                String
+  main_phone_number      String      @db.VarChar(25)
+  secondary_phone_number String?     @db.VarChar(25)
+  is_primary             Boolean     @default(false)
+  is_deleted             Boolean     @default(false)
+  created_at             DateTime    @default(now())
+  updated_at             DateTime    @default(now()) @updatedAt
+  user                   users       @relation(fields: [user_id], references: [id])
+  seller_info            seller_info @relation(fields: [seller_id], references: [user_id])
+
+  @@index([user_id, seller_id, address_type, user_type])
+}
+
+model blacklist_entries {
+  id              String              @id @default(uuid()) @db.VarChar(45)
+  start_date      String              @db.VarChar(30)
+  end_date        String              @db.VarChar(30)
+  is_deleted      Boolean             @default(false)
+  user_id         String?             @db.VarChar(45)
+  no_identifier   String              @unique @db.VarChar(50)
+  type_identifier String
+  place_id        String
+  history         blacklist_history[]
+
+  @@index([user_id, place_id])
+}
+
+model blacklist_history {
+  id              String            @id @default(uuid()) @db.VarChar(45)
+  no_identifier   String
+  place_id        String            @db.VarChar(45)
+  reason          String            @db.LongText()
+  user_id         String?           @db.VarChar(45)
+  start_date      String            @db.VarChar(30)
+  end_date        String            @db.VarChar(30)
+  is_deleted      Boolean           @default(false)
+  blacklist_entry blacklist_entries @relation(fields: [id], references: [id])
+
+  @@index([no_identifier, user_id, place_id])
+}
+
+model orders {
+  id                          Int                   @id @default(autoincrement())
+  order_id                    String                @unique @db.VarChar(40)
+  no_order                    String                @unique @db.VarChar(100)
+  user_id                     String                @db.VarChar(45)
+  order_type                  OrderType
+  order_sub_type              OrderSubType
+  total_price                 BigInt
+  total_price_before_discount BigInt?
+  discount                    Int?
+  total_quantity              Int
+  status                      OrderStatus
+  currency                    String
+  is_deleted                  Boolean               @default(false)
+  payment_method              String
+  user                        users                 @relation(fields: [user_id], references: [id])
+  created_at                  DateTime              @default(now())
+  updated_at                  DateTime              @default(now()) @updatedAt
+  payment_transaction         payment_transaction[]
+  notifications               notifications[]
+  detail                      order_detail[]
+  fee                         fee_order[]
+  vouchers                    voucher_order_info[]
+
+  @@index([user_id, no_order, status, is_deleted, created_at, updated_at])
+  @@fulltext([no_order])
+}
+
+model order_detail {
+  id                    String               @id @default(uuid()) @db.VarChar(45)
+  order_id              String               @db.VarChar(40)
+  seller_id             String               @db.VarChar(45)
+  user_id               String               @db.VarChar(45)
+  order_identifier      String
+  basecamp_id           String?
+  name                  String
+  thumbnail_url         String
+  thumbnail_text        String
+  quantity              Int
+  start_reservation     String?              @db.VarChar(30)
+  end_reservation       String?              @db.VarChar(30)
+  price                 BigInt
+  price_before_discount BigInt?
+  discount              Int?
+  order                 orders               @relation(fields: [order_id], references: [order_id])
+  basecamp              tracking_basecamp?   @relation(fields: [basecamp_id], references: [id])
+  place_destination     place_destination    @relation(fields: [order_identifier], references: [id])
+  seller                seller_info?         @relation(fields: [seller_id], references: [user_id])
+  user_info             order_user_info[]
+  vouchers              voucher_order_info[]
+
+  @@index([order_id, user_id, seller_id, order_identifier])
+  @@fulltext([name])
+}
+
+model fee_order {
+  id         Int     @id @default(autoincrement())
+  order_id   String  @db.VarChar(40)
+  value      Int
+  value_type String
+  fee_type   String
+  order      orders? @relation(fields: [order_id], references: [order_id])
+
+  @@index([order_id])
+}
+
+model order_user_info {
+  id                     Int           @id @default(autoincrement())
+  order_detail_id        String        @db.VarChar(45)
+  first_name             String
+  salutation             String        @default("Mr/Mrs") @db.VarChar(10)
+  last_name              String?
+  primary_email          String
+  secondary_email        String?
+  primary_phone_number   String        @db.VarChar(25)
+  secondary_phone_number String?       @db.VarChar(25)
+  country                String
+  no_identifier          String
+  birthday               String?
+  order_detail           order_detail? @relation(fields: [order_detail_id], references: [id])
+
+  @@index([order_detail_id, no_identifier])
+}
+
+model voucher_order_info {
+  id              Int              @id @default(autoincrement())
+  status          StatusUseVoucher
+  order_detail_id String?          @db.VarChar(45)
+  order_id        String?          @db.VarChar(40)
+  used_id         String           @db.VarChar(45)
+  code            String
+  use_time        DateTime
+  revoke_time     DateTime?
+  order_detail    order_detail?    @relation(fields: [order_detail_id], references: [id])
+  order           orders?          @relation(fields: [order_id], references: [order_id])
+  voucher         voucher?         @relation(fields: [code], references: [code])
+
+  @@index([order_detail_id, used_id, status])
+}
+
+model notifications {
+  id         Int      @id @default(autoincrement())
+  user_id    String   @db.VarChar(45)
+  type       String
+  is_deleted Boolean  @default(false)
+  message    String
+  sent_at    DateTime @default(now())
+  status     String
+  is_read    Boolean  @default(false)
+  user       users    @relation(fields: [user_id], references: [id])
+  order_id   String?  @db.VarChar(40)
+  order      orders?  @relation(fields: [order_id], references: [order_id])
+}
+
+model voucher {
+  code          String               @id @db.VarChar(25)
+  name          String
+  description   String?              @db.LongText
+  value         Decimal              @db.Decimal(10, 2)
+  min_spend     Int?
+  image_url     String?
+  image_text    String?
+  type          VoucherType
+  value_type    VoucherValueType
+  using_type    VoucherUsingType
+  source        SourceVoucer
+  created_by_id String               @db.VarChar(45)
+  is_active     Boolean              @default(true)
+  is_deleted    Boolean              @default(false)
+  start_date    String               @db.VarChar(30)
+  end_date      String               @db.VarChar(30)
+  voucher_used  voucher_order_info[]
+  created_by    users                @relation(fields: [created_by_id], references: [id])
+  created_at    DateTime             @default(now())
+  updated_at    DateTime             @updatedAt
+
+  @@index([is_active, is_deleted, type, value_type, start_date, end_date])
+}
+
+model user_identity {
+  id            String   @id @default(uuid()) @db.VarChar(45)
+  image         Bytes
+  format_base64 String
+  no_identifier String   @unique
+  identity_type String
+  is_deleted    Boolean  @default(false)
+  user_id       String   @unique @db.VarChar(45)
+  created_at    DateTime @default(now())
+  updated_at    DateTime @updatedAt
+  user          users    @relation(fields: [user_id], references: [id])
+}
+
+model reservation_schedule {
+  id            String             @id @default(uuid()) @db.VarChar(45)
+  place_id      String?            @db.VarChar(45)
+  basecamp_id   String?            @db.VarChar(45)
+  type          OrderSubType
+  start_time    String             @db.VarChar(30)
+  end_time      String?            @db.VarChar(30)
+  quota         Int?
+  current_quota Int?               @default(0)
+  created_at    DateTime           @default(now())
+  updated_at    DateTime           @updatedAt
+  place         place_destination? @relation(fields: [place_id], references: [id])
+  basecamp      tracking_basecamp? @relation(fields: [basecamp_id], references: [id])
+
+  @@index([start_time, end_time, place_id])
+}
+
+model quota_place {
+  id          String             @id @default(uuid()) @db.VarChar(45)
+  place_id    String?            @db.VarChar(45)
+  basecamp_id String?            @db.VarChar(45)
+  day         Days
+  quota       Int
+  place       place_destination? @relation(fields: [place_id], references: [id])
+  basecamp    tracking_basecamp? @relation(fields: [basecamp_id], references: [id])
+  updated_at  DateTime           @updatedAt
+
+  @@index([place_id, basecamp_id, day])
+}
+
+model place_destination {
+  id                    String                 @id @default(uuid()) @db.VarChar(45)
+  seller_id             String                 @db.VarChar(45)
+  name                  String
+  description           String                 @db.LongText
+  slug                  String                 @unique
+  type                  OrderType
+  price                 BigInt?
+  price_before_discount BigInt?
+  discount              Int?
+  latitude              String
+  longitude             String
+  email                 String?
+  phone_number          String?                @db.VarChar(25)
+  address               String
+  city                  String                 @db.VarChar(40)
+  province              String                 @db.VarChar(35)
+  country               String                 @db.VarChar(40)
+  altitude              Int?
+  website               String?
+  thumbnail_url         String
+  thumbnail_text        String
+  meta_title            String
+  meta_description      String
+  meta_keywords         String
+  seo_url               String
+  category_id           String                 @db.VarChar(45)
+  is_active             Boolean                @default(true)
+  is_deleted            Boolean                @default(false)
+  created_at            DateTime               @default(now())
+  updated_at            DateTime               @updatedAt
+  category              destination_categories @relation(fields: [category_id], references: [id])
+  seller_info           seller_info            @relation(fields: [seller_id], references: [user_id])
+  facilities            place_facilities[]
+  activities            place_activities[]
+  orders                order_detail[]
+  reservation_schedule  reservation_schedule[]
+  popular_place         popular_place[]
+  quota_place           quota_place[]
+  images                place_images[]
+  basecamp              tracking_basecamp[]
+
+  @@index([category_id, is_active, is_deleted, seller_id, province, city, country])
+  @@fulltext([name, province, city, country, description])
+}
+
+model tracking_basecamp {
+  id                    String                 @id @default(uuid()) @db.VarChar(45)
+  name                  String
+  description           String?                @db.LongText
+  price                 BigInt
+  price_before_discount BigInt?
+  discount              Int?
+  thumbnail_url         String?
+  thumbnail_text        String?
+  latitude              String
+  longitude             String
+  email                 String
+  phone_number          String                 @db.VarChar(25)
+  address               String
+  city                  String                 @db.VarChar(40)
+  province              String                 @db.VarChar(35)
+  country               String                 @db.VarChar(40)
+  place_id              String                 @db.VarChar(45)
+  is_active             Boolean                @default(true)
+  place                 place_destination?     @relation(fields: [place_id], references: [id])
+  facilities            place_facilities[]
+  quota                 quota_place[]
+  reservation_schedule  reservation_schedule[]
+  images                place_images[]
+  order_detail          order_detail[]
+
+  @@index([name, is_active, city, province, email])
+  @@fulltext([name, province, city, country, description])
+}
+
+model destination_categories {
+  id            String              @id @default(uuid()) @db.VarChar(45)
+  name          String
+  code          OrderSubType        @unique
+  description   String?             @db.LongText
+  image_url     String?
+  image_text    String?
+  is_active     Boolean             @default(true)
+  created_by_id String              @db.VarChar(45)
+  created_by    admin_info          @relation(fields: [created_by_id], references: [user_id])
+  updated_by_id String?             @db.VarChar(45)
+  created_at    DateTime            @default(now())
+  updated_at    DateTime            @updatedAt
+  places        place_destination[]
+
+  @@index([is_active, created_by_id, updated_by_id])
+  @@fulltext([name])
+}
+
+model place_images {
+  id          String             @id @default(uuid()) @db.VarChar(45)
+  image_text  String             @unique
+  image_url   String
+  place_id    String?            @db.VarChar(45)
+  basecamp_id String?            @db.VarChar(45)
+  is_delete   Boolean            @default(false)
+  is_primary  Boolean            @default(false)
+  place       place_destination? @relation(fields: [place_id], references: [id])
+  basecamp    tracking_basecamp? @relation(fields: [basecamp_id], references: [id])
+
+  @@index([place_id, is_delete, basecamp_id])
+}
+
+model place_facilities {
+  id           String             @id @default(uuid()) @db.VarChar(45)
+  place_id     String?            @db.VarChar(45)
+  basecamp_id  String?            @db.VarChar(45)
+  name         String
+  description  String?
+  is_available Boolean            @default(true)
+  created_at   DateTime           @default(now())
+  updated_at   DateTime           @updatedAt
+  place        place_destination? @relation(fields: [place_id], references: [id])
+  basecamp     tracking_basecamp? @relation(fields: [basecamp_id], references: [id])
+
+  @@index([name, place_id])
+}
+
+model place_activities {
+  id          String            @id @default(uuid()) @db.VarChar(45)
+  name        String
+  description String?
+  duration    Int
+  is_active   Boolean           @default(true)
+  created_at  DateTime          @default(now())
+  updated_at  DateTime          @updatedAt
+  place_id    String            @db.VarChar(45)
+  place       place_destination @relation(fields: [place_id], references: [id])
+
+  @@index([name, place_id, is_active])
+}
+
+model payment_transaction {
+  transaction_id   String            @id
+  order_id         String            @unique @db.VarChar(40)
+  is_deleted       Boolean           @default(false)
+  status           TransactionStatus
+  amount           Float
+  currency         String
+  payment_method   String
+  expiry_time      DateTime
+  transaction_time DateTime
+  settlement_time  DateTime?
+  va_number        String?
+  bank             String?
+  redirect_url     String?
+  qr_code          String?
+  qr_string        String?
+  orders           orders            @relation(fields: [order_id], references: [order_id])
+}
+
+model popular_place {
+  id         String            @id @default(uuid()) @db.VarChar(45)
+  place_id   String            @db.VarChar(45)
+  rating     Float
+  created_at DateTime          @default(now())
+  updated_at DateTime          @updatedAt
+  place      place_destination @relation(fields: [place_id], references: [id])
+
+  @@index([place_id])
+}
+
+model banners {
+  id            String         @id @default(uuid()) @db.VarChar(45)
+  title         String?
+  redirect_url  String?
+  description   String?
+  priority      Int            @default(0)
+  image_url     String
+  image_text    String
+  type          BannerType     @default(INFO)
+  position      BannerPosition @default(TOP)
+  start_active  String?        @db.VarChar(30)
+  end_active    String?        @db.VarChar(30)
+  is_active     Boolean        @default(true)
+  is_deleted    Boolean        @default(false)
+  is_blank      Boolean        @default(false)
+  created_at    DateTime       @default(now())
+  updated_at    DateTime       @updatedAt
+  updated_by    String         @db.VarChar(45)
+  admin_updated admin_info     @relation(fields: [updated_by], references: [user_id])
+
+  @@index([start_active, end_active, is_deleted, is_active, priority, type])
+}
+
+model temp_uploaded_images {
+  public_id      String    @id
+  folder         String    @db.VarChar(100)
+  transaction_id String    @db.VarChar(50)
+  used           Boolean
+  created_at     DateTime  @default(now())
+  used_at        DateTime?
+  deleted_at     DateTime?
+
+  @@index([used, created_at])
+}

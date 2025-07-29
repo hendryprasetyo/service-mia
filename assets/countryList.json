@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "CYPRUS",
+    "alpha_2_code": "cy",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cy.svg",
+    "calling_code": "357",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ERITREA",
+    "alpha_2_code": "er",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/er.svg",
+    "calling_code": "291",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LIBERIA",
+    "alpha_2_code": "lr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lr.svg",
+    "calling_code": "231",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BERMUDA",
+    "alpha_2_code": "bm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bm.svg",
+    "calling_code": "1441",
+    "postal_code_format": "@@ ##",
+    "postal_code_regex": "^([A-Z]{2}\\d{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "VATICAN CITY",
+    "alpha_2_code": "va",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/va.svg",
+    "calling_code": "3",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "COOK ISLANDS",
+    "alpha_2_code": "ck",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ck.svg",
+    "calling_code": "682",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SOMALIA",
+    "alpha_2_code": "so",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/so.svg",
+    "calling_code": "252",
+    "postal_code_format": "@@  #####",
+    "postal_code_regex": "^([A-Z]{2}\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ZAMBIA",
+    "alpha_2_code": "zm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/zm.svg",
+    "calling_code": "260",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "VENEZUELA",
+    "alpha_2_code": "ve",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ve.svg",
+    "calling_code": "58",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TURKMENISTAN",
+    "alpha_2_code": "tm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tm.svg",
+    "calling_code": "993",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ALBANIA",
+    "alpha_2_code": "al",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/al.svg",
+    "calling_code": "355",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CROATIA",
+    "alpha_2_code": "hr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/hr.svg",
+    "calling_code": "385",
+    "postal_code_format": "HR-#####",
+    "postal_code_regex": "^(?:HR)*(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "UNITED KINGDOM",
+    "alpha_2_code": "gb",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gb.svg",
+    "calling_code": "44",
+    "postal_code_format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postal_code_regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SUDAN",
+    "alpha_2_code": "sd",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sd.svg",
+    "calling_code": "249",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TIMOR-LESTE",
+    "alpha_2_code": "tl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tl.svg",
+    "calling_code": "670",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "REPUBLIC OF THE CONGO",
+    "alpha_2_code": "cg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cg.svg",
+    "calling_code": "242",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "AZERBAIJAN",
+    "alpha_2_code": "az",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/az.svg",
+    "calling_code": "994",
+    "postal_code_format": "AZ ####",
+    "postal_code_regex": "^(?:AZ)*(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "KENYA",
+    "alpha_2_code": "ke",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ke.svg",
+    "calling_code": "254",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "AMERICAN SAMOA",
+    "alpha_2_code": "as",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/as.svg",
+    "calling_code": "1684",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "IVORY COAST",
+    "alpha_2_code": "ci",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ci.svg",
+    "calling_code": "225",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SENEGAL",
+    "alpha_2_code": "sn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sn.svg",
+    "calling_code": "221",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "VIETNAM",
+    "alpha_2_code": "vn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/vn.svg",
+    "calling_code": "84",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "EL SALVADOR",
+    "alpha_2_code": "sv",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sv.svg",
+    "calling_code": "503",
+    "postal_code_format": "CP ####",
+    "postal_code_regex": "^(?:CP)*(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "AFGHANISTAN",
+    "alpha_2_code": "af",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/af.svg",
+    "calling_code": "93",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT MARTIN",
+    "alpha_2_code": "mf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mf.svg",
+    "calling_code": "590",
+    "postal_code_format": "### ###",
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LATVIA",
+    "alpha_2_code": "lv",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lv.svg",
+    "calling_code": "371",
+    "postal_code_format": "LV-####",
+    "postal_code_regex": "^(?:LV)*(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUATEMALA",
+    "alpha_2_code": "gt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gt.svg",
+    "calling_code": "502",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "KUWAIT",
+    "alpha_2_code": "kw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kw.svg",
+    "calling_code": "965",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SÃO TOMÉ AND PRÍNCIPE",
+    "alpha_2_code": "st",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/st.svg",
+    "calling_code": "239",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "KYRGYZSTAN",
+    "alpha_2_code": "kg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kg.svg",
+    "calling_code": "996",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "POLAND",
+    "alpha_2_code": "pl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pl.svg",
+    "calling_code": "48",
+    "postal_code_format": "##-###",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUAM",
+    "alpha_2_code": "gu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gu.svg",
+    "calling_code": "1671",
+    "postal_code_format": "969##",
+    "postal_code_regex": "^(969\\d{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GHANA",
+    "alpha_2_code": "gh",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gh.svg",
+    "calling_code": "233",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LITHUANIA",
+    "alpha_2_code": "lt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lt.svg",
+    "calling_code": "370",
+    "postal_code_format": "LT-#####",
+    "postal_code_regex": "^(?:LT)*(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ARMENIA",
+    "alpha_2_code": "am",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/am.svg",
+    "calling_code": "374",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "JERSEY",
+    "alpha_2_code": "je",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/je.svg",
+    "calling_code": "44",
+    "postal_code_format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postal_code_regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GRENADA",
+    "alpha_2_code": "gd",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gd.svg",
+    "calling_code": "1473",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "TAJIKISTAN",
+    "alpha_2_code": "tj",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tj.svg",
+    "calling_code": "992",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ETHIOPIA",
+    "alpha_2_code": "et",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/et.svg",
+    "calling_code": "251",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "WESTERN SAHARA",
+    "alpha_2_code": "eh",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/eh.svg",
+    "calling_code": "2",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MOROCCO",
+    "alpha_2_code": "ma",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ma.svg",
+    "calling_code": "212",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PUERTO RICO",
+    "alpha_2_code": "pr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pr.svg",
+    "calling_code": "1",
+    "postal_code_format": "#####-####",
+    "postal_code_regex": "^(\\d{9})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CHRISTMAS ISLAND",
+    "alpha_2_code": "cx",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cx.svg",
+    "calling_code": "61",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NEW ZEALAND",
+    "alpha_2_code": "nz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/nz.svg",
+    "calling_code": "64",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BRUNEI",
+    "alpha_2_code": "bn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bn.svg",
+    "calling_code": "673",
+    "postal_code_format": "@@####",
+    "postal_code_regex": "^([A-Z]{2}\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "FRENCH GUIANA",
+    "alpha_2_code": "gf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gf.svg",
+    "calling_code": "594",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^((97|98)3\\d{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NIUE",
+    "alpha_2_code": "nu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/nu.svg",
+    "calling_code": "683",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ROMANIA",
+    "alpha_2_code": "ro",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ro.svg",
+    "calling_code": "40",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SVALBARD AND JAN MAYEN",
+    "alpha_2_code": "sj",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sj.svg",
+    "calling_code": "4779",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BELARUS",
+    "alpha_2_code": "by",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/by.svg",
+    "calling_code": "375",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PANAMA",
+    "alpha_2_code": "pa",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pa.svg",
+    "calling_code": "507",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CAMEROON",
+    "alpha_2_code": "cm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cm.svg",
+    "calling_code": "237",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CZECHIA",
+    "alpha_2_code": "cz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cz.svg",
+    "calling_code": "420",
+    "postal_code_format": "### ##",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT BARTHÉLEMY",
+    "alpha_2_code": "bl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bl.svg",
+    "calling_code": "590",
+    "postal_code_format": "### ###",
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "GREECE",
+    "alpha_2_code": "gr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gr.svg",
+    "calling_code": "30",
+    "postal_code_format": "### ##",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MALI",
+    "alpha_2_code": "ml",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ml.svg",
+    "calling_code": "223",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MARTINIQUE",
+    "alpha_2_code": "mq",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mq.svg",
+    "calling_code": "596",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "FRANCE",
+    "alpha_2_code": "fr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/fr.svg",
+    "calling_code": "33",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PAKISTAN",
+    "alpha_2_code": "pk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pk.svg",
+    "calling_code": "92",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PERU",
+    "alpha_2_code": "pe",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pe.svg",
+    "calling_code": "51",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BARBADOS",
+    "alpha_2_code": "bb",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bb.svg",
+    "calling_code": "1246",
+    "postal_code_format": "BB#####",
+    "postal_code_regex": "^(?:BB)*(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GREENLAND",
+    "alpha_2_code": "gl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gl.svg",
+    "calling_code": "299",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT PIERRE AND MIQUELON",
+    "alpha_2_code": "pm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pm.svg",
+    "calling_code": "508",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(97500)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CHAD",
+    "alpha_2_code": "td",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/td.svg",
+    "calling_code": "235",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "HUNGARY",
+    "alpha_2_code": "hu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/hu.svg",
+    "calling_code": "36",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "COMOROS",
+    "alpha_2_code": "km",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/km.svg",
+    "calling_code": "269",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BANGLADESH",
+    "alpha_2_code": "bd",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bd.svg",
+    "calling_code": "880",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TOKELAU",
+    "alpha_2_code": "tk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tk.svg",
+    "calling_code": "690",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "FIJI",
+    "alpha_2_code": "fj",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/fj.svg",
+    "calling_code": "679",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CHINA",
+    "alpha_2_code": "cn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cn.svg",
+    "calling_code": "86",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "COLOMBIA",
+    "alpha_2_code": "co",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/co.svg",
+    "calling_code": "57",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BRITISH VIRGIN ISLANDS",
+    "alpha_2_code": "vg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/vg.svg",
+    "calling_code": "1284",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ALGERIA",
+    "alpha_2_code": "dz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/dz.svg",
+    "calling_code": "213",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MALDIVES",
+    "alpha_2_code": "mv",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mv.svg",
+    "calling_code": "960",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MALAYSIA",
+    "alpha_2_code": "my",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/my.svg",
+    "calling_code": "60",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CAYMAN ISLANDS",
+    "alpha_2_code": "ky",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ky.svg",
+    "calling_code": "1345",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SPAIN",
+    "alpha_2_code": "es",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/es.svg",
+    "calling_code": "34",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "IRELAND",
+    "alpha_2_code": "ie",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ie.svg",
+    "calling_code": "353",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ESTONIA",
+    "alpha_2_code": "ee",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ee.svg",
+    "calling_code": "372",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PARAGUAY",
+    "alpha_2_code": "py",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/py.svg",
+    "calling_code": "595",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "URUGUAY",
+    "alpha_2_code": "uy",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/uy.svg",
+    "calling_code": "598",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SOUTH AFRICA",
+    "alpha_2_code": "za",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/za.svg",
+    "calling_code": "27",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT LUCIA",
+    "alpha_2_code": "lc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lc.svg",
+    "calling_code": "1758",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "VANUATU",
+    "alpha_2_code": "vu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/vu.svg",
+    "calling_code": "678",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "FINLAND",
+    "alpha_2_code": "fi",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/fi.svg",
+    "calling_code": "358",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(?:FI)*(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SWEDEN",
+    "alpha_2_code": "se",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/se.svg",
+    "calling_code": "46",
+    "postal_code_format": "SE-### ##",
+    "postal_code_regex": "^(?:SE)*(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BRITISH INDIAN OCEAN TERRITORY",
+    "alpha_2_code": "io",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/io.svg",
+    "calling_code": "246",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LEBANON",
+    "alpha_2_code": "lb",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lb.svg",
+    "calling_code": "961",
+    "postal_code_format": "#### ####|####",
+    "postal_code_regex": "^(\\d{4}(\\d{4})?)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "UNITED STATES",
+    "alpha_2_code": "us",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/us.svg",
+    "calling_code": "1",
+    "postal_code_format": "#####-####",
+    "postal_code_regex": "^\\d{5}(-\\d{4})?$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CHILE",
+    "alpha_2_code": "cl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cl.svg",
+    "calling_code": "56",
+    "postal_code_format": "#######",
+    "postal_code_regex": "^(\\d{7})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NORFOLK ISLAND",
+    "alpha_2_code": "nf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/nf.svg",
+    "calling_code": "672",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MONTSERRAT",
+    "alpha_2_code": "ms",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ms.svg",
+    "calling_code": "1664",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "AUSTRALIA",
+    "alpha_2_code": "au",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/au.svg",
+    "calling_code": "61",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BELIZE",
+    "alpha_2_code": "bz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bz.svg",
+    "calling_code": "501",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUYANA",
+    "alpha_2_code": "gy",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gy.svg",
+    "calling_code": "592",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MONGOLIA",
+    "alpha_2_code": "mn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mn.svg",
+    "calling_code": "976",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TUVALU",
+    "alpha_2_code": "tv",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tv.svg",
+    "calling_code": "688",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "DOMINICAN REPUBLIC",
+    "alpha_2_code": "do",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/do.svg",
+    "calling_code": "1",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "EQUATORIAL GUINEA",
+    "alpha_2_code": "gq",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gq.svg",
+    "calling_code": "240",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT KITTS AND NEVIS",
+    "alpha_2_code": "kn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kn.svg",
+    "calling_code": "1869",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BOLIVIA",
+    "alpha_2_code": "bo",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bo.svg",
+    "calling_code": "591",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "NEPAL",
+    "alpha_2_code": "np",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/np.svg",
+    "calling_code": "977",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "FRENCH SOUTHERN AND ANTARCTIC LANDS",
+    "alpha_2_code": "tf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tf.svg",
+    "calling_code": "262",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "TAIWAN",
+    "alpha_2_code": "tw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tw.svg",
+    "calling_code": "886",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BENIN",
+    "alpha_2_code": "bj",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bj.svg",
+    "calling_code": "229",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BULGARIA",
+    "alpha_2_code": "bg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bg.svg",
+    "calling_code": "359",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MOLDOVA",
+    "alpha_2_code": "md",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/md.svg",
+    "calling_code": "373",
+    "postal_code_format": "MD-####",
+    "postal_code_regex": "^(?:MD)*(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ISLE OF MAN",
+    "alpha_2_code": "im",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/im.svg",
+    "calling_code": "44",
+    "postal_code_format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postal_code_regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BHUTAN",
+    "alpha_2_code": "bt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bt.svg",
+    "calling_code": "975",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CAMBODIA",
+    "alpha_2_code": "kh",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kh.svg",
+    "calling_code": "855",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ANTIGUA AND BARBUDA",
+    "alpha_2_code": "ag",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ag.svg",
+    "calling_code": "1268",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "HAITI",
+    "alpha_2_code": "ht",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ht.svg",
+    "calling_code": "509",
+    "postal_code_format": "HT####",
+    "postal_code_regex": "^(?:HT)*(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CAPE VERDE",
+    "alpha_2_code": "cv",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cv.svg",
+    "calling_code": "238",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GEORGIA",
+    "alpha_2_code": "ge",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ge.svg",
+    "calling_code": "995",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BURUNDI",
+    "alpha_2_code": "bi",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bi.svg",
+    "calling_code": "257",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BAHAMAS",
+    "alpha_2_code": "bs",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bs.svg",
+    "calling_code": "1242",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MAURITIUS",
+    "alpha_2_code": "mu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mu.svg",
+    "calling_code": "230",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LIBYA",
+    "alpha_2_code": "ly",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ly.svg",
+    "calling_code": "218",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MALAWI",
+    "alpha_2_code": "mw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mw.svg",
+    "calling_code": "265",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MEXICO",
+    "alpha_2_code": "mx",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mx.svg",
+    "calling_code": "52",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ESWATINI",
+    "alpha_2_code": "sz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sz.svg",
+    "calling_code": "268",
+    "postal_code_format": "@###",
+    "postal_code_regex": "^([A-Z]\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PAPUA NEW GUINEA",
+    "alpha_2_code": "pg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pg.svg",
+    "calling_code": "675",
+    "postal_code_format": "###",
+    "postal_code_regex": "^(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "DOMINICA",
+    "alpha_2_code": "dm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/dm.svg",
+    "calling_code": "1767",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LIECHTENSTEIN",
+    "alpha_2_code": "li",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/li.svg",
+    "calling_code": "423",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "RUSSIA",
+    "alpha_2_code": "ru",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ru.svg",
+    "calling_code": "7",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ISRAEL",
+    "alpha_2_code": "il",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/il.svg",
+    "calling_code": "972",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SINGAPORE",
+    "alpha_2_code": "sg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sg.svg",
+    "calling_code": "65",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "UGANDA",
+    "alpha_2_code": "ug",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ug.svg",
+    "calling_code": "256",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SLOVAKIA",
+    "alpha_2_code": "sk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sk.svg",
+    "calling_code": "421",
+    "postal_code_format": "###  ##",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TONGA",
+    "alpha_2_code": "to",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/to.svg",
+    "calling_code": "676",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "UNITED ARAB EMIRATES",
+    "alpha_2_code": "ae",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ae.svg",
+    "calling_code": "971",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MAYOTTE",
+    "alpha_2_code": "yt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/yt.svg",
+    "calling_code": "262",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SURINAME",
+    "alpha_2_code": "sr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sr.svg",
+    "calling_code": "597",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "UZBEKISTAN",
+    "alpha_2_code": "uz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/uz.svg",
+    "calling_code": "998",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAUDI ARABIA",
+    "alpha_2_code": "sa",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sa.svg",
+    "calling_code": "966",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "EGYPT",
+    "alpha_2_code": "eg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/eg.svg",
+    "calling_code": "20",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ITALY",
+    "alpha_2_code": "it",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/it.svg",
+    "calling_code": "39",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MADAGASCAR",
+    "alpha_2_code": "mg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mg.svg",
+    "calling_code": "261",
+    "postal_code_format": "###",
+    "postal_code_regex": "^(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NEW CALEDONIA",
+    "alpha_2_code": "nc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/nc.svg",
+    "calling_code": "687",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CANADA",
+    "alpha_2_code": "ca",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ca.svg",
+    "calling_code": "1",
+    "postal_code_format": "@#@ #@#",
+    "postal_code_regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "UNITED STATES VIRGIN ISLANDS",
+    "alpha_2_code": "vi",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/vi.svg",
+    "calling_code": "1340",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MARSHALL ISLANDS",
+    "alpha_2_code": "mh",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mh.svg",
+    "calling_code": "692",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MAURITANIA",
+    "alpha_2_code": "mr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mr.svg",
+    "calling_code": "222",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "GAMBIA",
+    "alpha_2_code": "gm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gm.svg",
+    "calling_code": "220",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "TRINIDAD AND TOBAGO",
+    "alpha_2_code": "tt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tt.svg",
+    "calling_code": "1868",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SEYCHELLES",
+    "alpha_2_code": "sc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sc.svg",
+    "calling_code": "248",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "JAPAN",
+    "alpha_2_code": "jp",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/jp.svg",
+    "calling_code": "81",
+    "postal_code_format": "###-####",
+    "postal_code_regex": "^(\\d{7})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BRAZIL",
+    "alpha_2_code": "br",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/br.svg",
+    "calling_code": "55",
+    "postal_code_format": "#####-###",
+    "postal_code_regex": "^(\\d{8})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SYRIA",
+    "alpha_2_code": "sy",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sy.svg",
+    "calling_code": "963",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "alpha_2_code": "sh",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sh.svg",
+    "calling_code": "2",
+    "postal_code_format": "STHL 1ZZ",
+    "postal_code_regex": "^(STHL1ZZ)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TANZANIA",
+    "alpha_2_code": "tz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tz.svg",
+    "calling_code": "255",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ANDORRA",
+    "alpha_2_code": "ad",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ad.svg",
+    "calling_code": "376",
+    "postal_code_format": "AD###",
+    "postal_code_regex": "^(?:AD)*(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "IRAN",
+    "alpha_2_code": "ir",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ir.svg",
+    "calling_code": "98",
+    "postal_code_format": "##########",
+    "postal_code_regex": "^(\\d{10})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TOGO",
+    "alpha_2_code": "tg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tg.svg",
+    "calling_code": "228",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MALTA",
+    "alpha_2_code": "mt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mt.svg",
+    "calling_code": "356",
+    "postal_code_format": "@@@ ###|@@@ ##",
+    "postal_code_regex": "^([A-Z]{3}\\d{2}\\d?)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SOUTH KOREA",
+    "alpha_2_code": "kr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kr.svg",
+    "calling_code": "82",
+    "postal_code_format": "SEOUL ###-###",
+    "postal_code_regex": "^(?:SEOUL)*(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAMOA",
+    "alpha_2_code": "ws",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ws.svg",
+    "calling_code": "685",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "GERMANY",
+    "alpha_2_code": "de",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/de.svg",
+    "calling_code": "49",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NIGER",
+    "alpha_2_code": "ne",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ne.svg",
+    "calling_code": "227",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BOUVET ISLAND",
+    "alpha_2_code": "bv",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bv.svg",
+    "calling_code": "47",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "JAMAICA",
+    "alpha_2_code": "jm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/jm.svg",
+    "calling_code": "1876",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "NICARAGUA",
+    "alpha_2_code": "ni",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ni.svg",
+    "calling_code": "505",
+    "postal_code_format": "###-###-#",
+    "postal_code_regex": "^(\\d{7})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUINEA",
+    "alpha_2_code": "gn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gn.svg",
+    "calling_code": "224",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ANGUILLA",
+    "alpha_2_code": "ai",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ai.svg",
+    "calling_code": "1264",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ÅLAND ISLANDS",
+    "alpha_2_code": "ax",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ax.svg",
+    "calling_code": "35818",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BELGIUM",
+    "alpha_2_code": "be",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/be.svg",
+    "calling_code": "32",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PORTUGAL",
+    "alpha_2_code": "pt",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pt.svg",
+    "calling_code": "351",
+    "postal_code_format": "####-###",
+    "postal_code_regex": "^(\\d{7})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "DENMARK",
+    "alpha_2_code": "dk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/dk.svg",
+    "calling_code": "45",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PHILIPPINES",
+    "alpha_2_code": "ph",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ph.svg",
+    "calling_code": "63",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "WALLIS AND FUTUNA",
+    "alpha_2_code": "wf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/wf.svg",
+    "calling_code": "681",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(986\\d{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "AUSTRIA",
+    "alpha_2_code": "at",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/at.svg",
+    "calling_code": "43",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUINEA-BISSAU",
+    "alpha_2_code": "gw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gw.svg",
+    "calling_code": "245",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MONACO",
+    "alpha_2_code": "mc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mc.svg",
+    "calling_code": "377",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NAMIBIA",
+    "alpha_2_code": "na",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/na.svg",
+    "calling_code": "264",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "alpha_2_code": "um",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/um.svg",
+    "calling_code": "268",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "COSTA RICA",
+    "alpha_2_code": "cr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cr.svg",
+    "calling_code": "506",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BOSNIA AND HERZEGOVINA",
+    "alpha_2_code": "ba",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ba.svg",
+    "calling_code": "387",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MACAU",
+    "alpha_2_code": "mo",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mo.svg",
+    "calling_code": "853",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MOZAMBIQUE",
+    "alpha_2_code": "mz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mz.svg",
+    "calling_code": "258",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "RÉUNION",
+    "alpha_2_code": "re",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/re.svg",
+    "calling_code": "262",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^((97|98)(4|7|8)\\d{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MONTENEGRO",
+    "alpha_2_code": "me",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/me.svg",
+    "calling_code": "382",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NORTH KOREA",
+    "alpha_2_code": "kp",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kp.svg",
+    "calling_code": "850",
+    "postal_code_format": "###-###",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NORTHERN MARIANA ISLANDS",
+    "alpha_2_code": "mp",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mp.svg",
+    "calling_code": "1670",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "UKRAINE",
+    "alpha_2_code": "ua",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ua.svg",
+    "calling_code": "380",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "IRAQ",
+    "alpha_2_code": "iq",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/iq.svg",
+    "calling_code": "964",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SOUTH GEORGIA",
+    "alpha_2_code": "gs",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gs.svg",
+    "calling_code": "500",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ANGOLA",
+    "alpha_2_code": "ao",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ao.svg",
+    "calling_code": "244",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SIERRA LEONE",
+    "alpha_2_code": "sl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sl.svg",
+    "calling_code": "232",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "MICRONESIA",
+    "alpha_2_code": "fm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/fm.svg",
+    "calling_code": "691",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CUBA",
+    "alpha_2_code": "cu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cu.svg",
+    "calling_code": "53",
+    "postal_code_format": "CP #####",
+    "postal_code_regex": "^(?:CP)*(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TURKS AND CAICOS ISLANDS",
+    "alpha_2_code": "tc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tc.svg",
+    "calling_code": "1649",
+    "postal_code_format": "TKCA 1ZZ",
+    "postal_code_regex": "^(TKCA 1ZZ)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SERBIA",
+    "alpha_2_code": "rs",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/rs.svg",
+    "calling_code": "381",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ECUADOR",
+    "alpha_2_code": "ec",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ec.svg",
+    "calling_code": "593",
+    "postal_code_format": "@####@",
+    "postal_code_regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "FAROE ISLANDS",
+    "alpha_2_code": "fo",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/fo.svg",
+    "calling_code": "298",
+    "postal_code_format": "FO-###",
+    "postal_code_regex": "^(?:FO)*(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PALESTINE",
+    "alpha_2_code": "ps",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ps.svg",
+    "calling_code": "970",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "TURKEY",
+    "alpha_2_code": "tr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tr.svg",
+    "calling_code": "90",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "KIRIBATI",
+    "alpha_2_code": "ki",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ki.svg",
+    "calling_code": "686",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "KAZAKHSTAN",
+    "alpha_2_code": "kz",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/kz.svg",
+    "calling_code": "7",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GIBRALTAR",
+    "alpha_2_code": "gi",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gi.svg",
+    "calling_code": "350",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ICELAND",
+    "alpha_2_code": "is",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/is.svg",
+    "calling_code": "354",
+    "postal_code_format": "###",
+    "postal_code_regex": "^(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PALAU",
+    "alpha_2_code": "pw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pw.svg",
+    "calling_code": "680",
+    "postal_code_format": "96940",
+    "postal_code_regex": "^(96940)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "QATAR",
+    "alpha_2_code": "qa",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/qa.svg",
+    "calling_code": "974",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SWITZERLAND",
+    "alpha_2_code": "ch",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ch.svg",
+    "calling_code": "41",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "FRENCH POLYNESIA",
+    "alpha_2_code": "pf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pf.svg",
+    "calling_code": "689",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^((97|98)7\\d{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "PITCAIRN ISLANDS",
+    "alpha_2_code": "pn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/pn.svg",
+    "calling_code": "64",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "JORDAN",
+    "alpha_2_code": "jo",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/jo.svg",
+    "calling_code": "962",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "MYANMAR",
+    "alpha_2_code": "mm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mm.svg",
+    "calling_code": "95",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "THAILAND",
+    "alpha_2_code": "th",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/th.svg",
+    "calling_code": "66",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "CARIBBEAN NETHERLANDS",
+    "alpha_2_code": "bq",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bq.svg",
+    "calling_code": "599",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ARUBA",
+    "alpha_2_code": "aw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/aw.svg",
+    "calling_code": "297",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUADELOUPE",
+    "alpha_2_code": "gp",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gp.svg",
+    "calling_code": "590",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^((97|98)\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NIGERIA",
+    "alpha_2_code": "ng",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ng.svg",
+    "calling_code": "234",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BAHRAIN",
+    "alpha_2_code": "bh",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bh.svg",
+    "calling_code": "973",
+    "postal_code_format": "####|###",
+    "postal_code_regex": "^(\\d{3}\\d?)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "LAOS",
+    "alpha_2_code": "la",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/la.svg",
+    "calling_code": "856",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "COCOS (KEELING) ISLANDS",
+    "alpha_2_code": "cc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cc.svg",
+    "calling_code": "61",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "DJIBOUTI",
+    "alpha_2_code": "dj",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/dj.svg",
+    "calling_code": "253",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SOLOMON ISLANDS",
+    "alpha_2_code": "sb",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sb.svg",
+    "calling_code": "677",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "INDIA",
+    "alpha_2_code": "in",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/in.svg",
+    "calling_code": "91",
+    "postal_code_format": "######",
+    "postal_code_regex": "^(\\d{6})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAN MARINO",
+    "alpha_2_code": "sm",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sm.svg",
+    "calling_code": "378",
+    "postal_code_format": "4789#",
+    "postal_code_regex": "^(4789\\d)$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "LUXEMBOURG",
+    "alpha_2_code": "lu",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lu.svg",
+    "calling_code": "352",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SINT MAARTEN",
+    "alpha_2_code": "sx",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/sx.svg",
+    "calling_code": "1721",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "FALKLAND ISLANDS",
+    "alpha_2_code": "fk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/fk.svg",
+    "calling_code": "500",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CENTRAL AFRICAN REPUBLIC",
+    "alpha_2_code": "cf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cf.svg",
+    "calling_code": "236",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "BOTSWANA",
+    "alpha_2_code": "bw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bw.svg",
+    "calling_code": "267",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "CURAÇAO",
+    "alpha_2_code": "cw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cw.svg",
+    "calling_code": "599",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "GUERNSEY",
+    "alpha_2_code": "gg",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/gg.svg",
+    "calling_code": "44",
+    "postal_code_format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postal_code_regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "NORWAY",
+    "alpha_2_code": "no",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/no.svg",
+    "calling_code": "47",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "GABON",
+    "alpha_2_code": "ga",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ga.svg",
+    "calling_code": "241",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "ZIMBABWE",
+    "alpha_2_code": "zw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/zw.svg",
+    "calling_code": "263",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "LESOTHO",
+    "alpha_2_code": "ls",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ls.svg",
+    "calling_code": "266",
+    "postal_code_format": "###",
+    "postal_code_regex": "^(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SLOVENIA",
+    "alpha_2_code": "si",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/si.svg",
+    "calling_code": "386",
+    "postal_code_format": "SI- ####",
+    "postal_code_regex": "^(?:SI)*(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "ARGENTINA",
+    "alpha_2_code": "ar",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ar.svg",
+    "calling_code": "54",
+    "postal_code_format": "@####@@@",
+    "postal_code_regex": "^([A-Z]\\d{4}[A-Z]{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "BURKINA FASO",
+    "alpha_2_code": "bf",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/bf.svg",
+    "calling_code": "226",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "YEMEN",
+    "alpha_2_code": "ye",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ye.svg",
+    "calling_code": "967",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "DR CONGO",
+    "alpha_2_code": "cd",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/cd.svg",
+    "calling_code": "243",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "OMAN",
+    "alpha_2_code": "om",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/om.svg",
+    "calling_code": "968",
+    "postal_code_format": "###",
+    "postal_code_regex": "^(\\d{3})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "INDONESIA",
+    "alpha_2_code": "id",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/id.svg",
+    "calling_code": "62",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNI"
+  },
+  {
+    "name": "NAURU",
+    "alpha_2_code": "nr",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/nr.svg",
+    "calling_code": "674",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "RWANDA",
+    "alpha_2_code": "rw",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/rw.svg",
+    "calling_code": "250",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "NORTH MACEDONIA",
+    "alpha_2_code": "mk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/mk.svg",
+    "calling_code": "389",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "KOSOVO",
+    "alpha_2_code": "xk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/xk.svg",
+    "calling_code": "383",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "NETHERLANDS",
+    "alpha_2_code": "nl",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/nl.svg",
+    "calling_code": "31",
+    "postal_code_format": "#### @@",
+    "postal_code_regex": "^(\\d{4}[A-Z]{2})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "TUNISIA",
+    "alpha_2_code": "tn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/tn.svg",
+    "calling_code": "216",
+    "postal_code_format": "####",
+    "postal_code_regex": "^(\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SOUTH SUDAN",
+    "alpha_2_code": "ss",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/ss.svg",
+    "calling_code": "211",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "HONDURAS",
+    "alpha_2_code": "hn",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/hn.svg",
+    "calling_code": "504",
+    "postal_code_format": "@@####",
+    "postal_code_regex": "^([A-Z]{2}\\d{4})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "SAINT VINCENT AND THE GRENADINES",
+    "alpha_2_code": "vc",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/vc.svg",
+    "calling_code": "1784",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  },
+  {
+    "name": "SRI LANKA",
+    "alpha_2_code": "lk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/lk.svg",
+    "calling_code": "94",
+    "postal_code_format": "#####",
+    "postal_code_regex": "^(\\d{5})$",
+    "nationality": "WNA"
+  },
+  {
+    "name": "HONG KONG",
+    "alpha_2_code": "hk",
+    "flag": "https://a.m.dana.id/merchant-portal/app/assets/flag/hk.svg",
+    "calling_code": "852",
+    "postal_code_format": null,
+    "postal_code_regex": null,
+    "nationality": "WNA"
+  }
+]

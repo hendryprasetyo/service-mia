@@ -1,0 +1,50 @@
+{
+  "payment_provider": {
+    "midtrans": [
+      "bank_transfer",
+      "echannel",
+      "permata",
+      "gopay",
+      "shopeepay",
+      "qris"
+    ],
+    "ots": ["ots"]
+  },
+  "admin_fee": {
+    "value": "2000",
+    "type": "IDR",
+    "discount": 100,
+    "discount_type": "percentage"
+  },
+  "payment_notif_callback": {
+    "subject_email": {
+      "pending": {
+        "id": "Pembayaran Anda Sedang Menunggu Konfirmasi - Harap Selesaikan Dalam 30 Menit",
+        "en": "Your payment is awaiting confirmation - Please complete within 30 minutes."
+      },
+      "settlement": {
+        "id": "Pembayaran Anda Telah Dikonfirmasi - Terima Kasih!",
+        "en": "Your payment has been confirmed - Thank you!"
+      },
+      "cancel": {
+        "id": "Pembayaran Anda Dibatalkan",
+        "en": "Your payment has been canceled."
+      },
+      "expire": {
+        "id": "Pembayaran Anda Expired - Segera Selesaikan!",
+        "en": "Your payment has expired - Please complete it as soon as possible!"
+      },
+      "failure": {
+        "id": "Pembayaran Anda Gagal - Coba Lagi",
+        "en": "Your payment failed - Please try again."
+      }
+    },
+    "mapping_order_status": {
+      "pending": "PENDING",
+      "settlement": "COMPLETED",
+      "expire": "CANCELED",
+      "cancel": "CANCELED",
+      "failure": "FAILURE"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "http_status": 200,
+    "status_code": "00000",
+    "message": "success",
+    "description": "sukses with data"
+  },
+  {
+    "http_status": 200,
+    "status_code": "00000",
+    "message": "success whitout data",
+    "description": "sukses without data"
+  },
+  {
+    "http_status": 500,
+    "status_code": "00500",
+    "message": "Internal Server Error",
+    "description": "Global Internal Server error"
+  },
+  {
+    "http_status": 400,
+    "status_code": "00400",
+    "message": "Bad Request",
+    "description": "Global Bad Request"
+  },
+  {
+    "http_status": 401,
+    "status_code": "00401",
+    "message": "Unauthorized",
+    "description": "need login again"
+  },
+  {
+    "http_status": 403,
+    "status_code": "00403",
+    "message": "Forbiden",
+    "description": "need refresh token"
+  },
+  {
+    "http_status": 429,
+    "status_code": "00429",
+    "message": "To Many Request",
+    "description": "Global To Many Request"
+  },
+  {
+    "http_status": 400,
+    "status_code": "01400",
+    "message": [
+      "Email already exis",
+      "Your OTP has expired. Please resend it.",
+      "Invalid OTP",
+      "Password and Confirm Password must be match",
+      "Email or Username already exist",
+      "User Not Found",
+      "To Many Request, try again later!",
+      "To Many Request Invalid Password",
+      "Invalid Password",
+      "You have order inprogress",
+      "This identifier already used"
+    ],
+    "description": "error 400 with pop up or bottom sheet and message can be consume"
+  },
+  {
+    "http_status": 400,
+    "status_code": "99400",
+    "message": ["Bad Request"],
+    "description": "error 400 with pop up or bottom sheet. User blacklisted in some place"
+  },
+  {
+    "http_status": 400,
+    "status_code": "91400",
+    "message": ["Bad Request"],
+    "description": "error 400 with pop up or bottom sheet. There is another transaction with the same product in progress, please try again"
+  }
+]

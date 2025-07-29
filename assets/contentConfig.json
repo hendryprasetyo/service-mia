@@ -1,0 +1,26 @@
+{
+  "image_default_voucher": [
+    {
+      "id": "voucer_image_primary",
+      "image_url": "https://res.cloudinary.com/dulhgba4u/image/upload/v1749565476/voucher_mia_all_qy6e1o.png",
+      "image_text": "voucher_mia_all_qy6e1o.png",
+      "platform": ["ANDROID", "IOS", "WEB"],
+      "categories": ["ANDROID", "IOS", "WEB"],
+      "enable": true,
+      "is_new": true,
+      "is_default": true
+    }
+  ],
+  "image_default_category": [
+    {
+      "id": "category_image_primary",
+      "image_url": "https://res.cloudinary.com/dulhgba4u/image/upload/v1747753107/mia_base_logo_e6nb3f.png",
+      "image_text": "mia_base_logo_e6nb3f.png",
+      "platform": ["ANDROID", "IOS", "WEB"],
+      "categories": ["ANDROID", "IOS", "WEB"],
+      "enable": true,
+      "is_new": true,
+      "is_default": true
+    }
+  ]
+}

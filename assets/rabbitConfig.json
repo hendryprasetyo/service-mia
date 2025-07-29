@@ -1,0 +1,14 @@
+{
+  "queue_config": [
+    {
+      "queue": "notification-queue",
+      "exchanges": [
+        { "name": "notif_exchange", "routeKey": "notification_key" }
+      ]
+    },
+    {
+      "queue": "upload-queue",
+      "exchanges": [{ "name": "upload_exchange", "routeKey": "upload_key" }]
+    }
+  ]
+}
